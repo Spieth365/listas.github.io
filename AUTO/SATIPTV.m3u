@@ -1,0 +1,287 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_1_759C_422_1_C00000_0_0_0.png",Portada
+http://78.30.16.151:8001/1:0:1:759C:422:1:C00000:0:0:0
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_19_7863_41A_1_C00000_0_0_0.png",La 1 SD
+http://78.30.16.151:8001/1:0:1:76C2:40E:1:C00000:0:0:0:
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_1_7474_3F0_1_C00000_0_0_0.png",La 2 SD
+http://78.30.16.151:8001/1:0:1:7474:3F0:1:C00000:0:0:0
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_1_772C_416_1_C00000_0_0_0.png",Antena 3 SD
+http://78.30.16.151:8001/1:0:1:772C:416:1:C00000:0:0:0
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_1_7792_424_1_C00000_0_0_0.png",Cuatro SD
+http://78.30.16.151:8001/1:0:1:7792:424:1:C00000:0:0:0
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_1_778C_424_1_C00000_0_0_0.png",Tele 5 SD
+http://78.30.16.151:8001/1:0:1:778C:424:1:C00000:0:0:0
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_1_769E_41E_1_C00000_0_0_0.png",La Sexta SD
+http://78.30.16.151:8001/1:0:1:769E:41E:1:C00000:0:0:0
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_19_74D4_3F8_1_C00000_0_0_0.png",Movistar+ Plus HD
+http://78.30.16.151:8001/1:0:19:749A:41C:1:C00000:0:0:0:
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_19_74D8_3F8_1_C00000_0_0_0.png",Movistar+ Plus 2 HD
+http://78.30.16.151:8001/1:0:1:759E:422:1:C00000:0:0:0:
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_19_7539_426_1_C00000_0_0_0.png",Movistar+ Cine HD
+http://78.30.16.151:8001/1:0:19:7539:426:1:C00000:0:0:0
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_19_750C_420_1_C00000_0_0_0.png",Movistar+ Originales HD
+http://78.30.16.151:8001/1:0:19:750C:420:1:C00000:0:0:0
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_19_78BF_3EC_1_C00000_0_0_0.png",Movistar+ Clasicos HD
+http://78.30.16.151:8001/1:0:19:78BF:3EC:1:C00000:0:0:0
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_19_7509_420_1_C00000_0_0_0.png",Movistar+ Acción HD
+http://78.30.16.151:8001/1:0:19:7509:420:1:C00000:0:0:0
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_19_7857_41A_1_C00000_0_0_0.png",Movistar+ Comedia HD
+http://78.30.16.151:8001/1:0:19:7857:41A:1:C00000:0:0:0
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_19_750B_420_1_C00000_0_0_0.png",Movistar+ Drama HD
+http://78.30.16.151:8001/1:0:19:750B:420:1:C00000:0:0:0
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_19_7504_420_1_C00000_0_0_0.png",Movistar+ Suspense HD
+http://78.30.16.151:8001/1:0:19:7504:420:1:C00000:0:0:0
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_19_7533_426_1_C00000_0_0_0.png",Movistar+ Indie HD
+http://78.30.16.151:8001/1:0:19:7533:426:1:C00000:0:0:0
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_1_7736_416_1_C00000_0_0_0.png",Movistar+ Español SD
+http://78.30.16.151:8001/1:0:1:7736:416:1:C00000:0:0:0
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_19_78BE_3EC_1_C00000_0_0_0.png",Movistar+ Documentales HD
+http://78.30.16.151:8001/1:0:19:78BE:3EC:1:C00000:0:0:0
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_1_7600_408_1_C00000_0_0_0.png",La resistencia SD
+http://78.30.16.151:8001/1:0:1:7827:428:1:c00000:0:0:0:
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_1_757F_412_1_C00000_0_0_0.png",Movistar+ Musica SD
+http://78.30.16.151:8001/1:0:1:757F:412:1:C00000:0:0:0
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_1_76C7_40E_1_C00000_0_0_0.png",TCM SD
+http://78.30.16.151:8001/1:0:1:76C7:40E:1:C00000:0:0:0
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_1_77C1_40A_1_C00000_0_0_0.png",Hollywood SD
+http://78.30.16.151:8001/1:0:1:77C1:40A:1:C00000:0:0:0
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_1_756B_412_1_C00000_0_0_0.png",Paramount SD
+http://78.30.16.151:8001/1:0:1:756B:412:1:C00000:0:0:0
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_19_78B6_3EC_1_C00000_0_0_0.png",Movistar+ Series HD
+http://78.30.16.151:8001/1:0:19:78B6:3EC:1:C00000:0:0:0
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_1_746F_3F0_1_C00000_0_0_0.png",Fox SD
+http://78.30.16.151:8001/1:0:1:746F:3F0:1:C00000:0:0:0
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_19_7856_41A_1_C00000_0_0_0.png",AXN HD
+http://78.30.16.151:8001/1:0:19:7856:41A:1:C00000:0:0:0
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_1_76CB_40E_1_C00000_0_0_0.png",Warner TV SD
+http://78.30.16.151:8001/1:0:1:76CB:40E:1:C00000:0:0:0
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_1_76C8_40E_1_C00000_0_0_0.png",Comedy Central SD
+http://78.30.16.151:8001/1:0:1:76C8:40E:1:C00000:0:0:0
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_1_74A8_41C_1_C00000_0_0_0.png",BE MAD TV  SD
+http://78.30.16.151:8001/1:0:1:7891:414:1:c00000:0:0:0:
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_1_7790_424_1_C00000_0_0_0.png",Calle 13 SD
+http://78.30.16.151:8001/1:0:1:7790:424:1:C00000:0:0:0
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_1_7730_416_1_C00000_0_0_0.png",Cosmo SD
+http://78.30.16.151:8001/1:0:1:7730:416:1:C00000:0:0:0
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_1_7796_424_1_C00000_0_0_0.png",Syfy SD
+http://78.30.16.151:8001/1:0:1:7796:424:1:C00000:0:0:0
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_1_749F_41C_1_C00000_0_0_0.png",Energy SD
+http://78.30.16.151:8001/1:0:1:7889:414:1:c00000:0:0:0:
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_1_77BC_40A_1_C00000_0_0_0.png",Factoria de Ficcion SD
+http://78.30.16.151:8001/1:0:1:77BC:40A:1:C00000:0:0:0
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_1_7587_412_1_C00000_0_0_0.png",Neox SD
+http://78.30.16.151:8001/1:0:1:7587:412:1:C00000:0:0:0
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_1_76A3_41E_1_C00000_0_0_0.png",Multideporte SD
+http://78.30.16.151:8001/1:0:1:76A3:41E:1:C00000:0:0:0
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_19_78B5_3EC_1_C00000_0_0_0.png",Ellas #V HD
+http://78.30.16.151:8001/1:0:19:78B5:3EC:1:C00000:0:0:0
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_19_750A_420_1_C00000_0_0_0.png",#Vamos HD
+http://78.30.16.151:8001/1:0:19:750A:420:1:C00000:0:0:0
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_19_750F_420_1_C00000_0_0_0.png",Movistar+ LaLiga HD
+http://78.30.16.151:8001/1:0:19:750F:420:1:C00000:0:0:0
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_19_7853_41A_1_C00000_0_0_0.png",Movistar+ LaLiga 2 HD
+http://78.30.16.151:8001/1:0:19:750d:420:1:c00000:0:0:0:
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_19_74CD_3F8_1_C00000_0_0_0.png",Movistar+ LaLiga 3 HD
+http://78.30.16.151:8001/1:0:19:74a3:41c:1:c00000:0:0:0:
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_19_78B4_3EC_1_C00000_0_0_0.png",Movistar+ Liga de Campeones HD
+http://78.30.16.151:8001/1:0:19:78B4:3EC:1:C00000:0:0:0
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_19_74D5_3F8_1_C00000_0_0_0.png",Movistar+ Liga de Campeones 2 SD
+http://78.30.16.151:8001/1:0:19:749e:41c:1:c00000:0:0:0:
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_19_74DB_3F8_1_C00000_0_0_0.png",Movistar+ Liga de Campeones 3 SD
+http://78.30.16.151:8001/1:0:19:749f:41c:1:c00000:0:0:0:
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_1_77D8_40A_1_C00000_0_0_0.png",Movistar+ Liga de Campeones 4 SD
+http://78.30.16.151:8001/1:0:1:77D8:40A:1:C00000:0:0:0
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_1_77C4_40A_1_C00000_0_0_0.png",Movistar+ Liga de Campeones 5 SD
+http://78.30.16.151:8001/1:0:1:77C4:40A:1:C00000:0:0:0
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_1_760E_408_1_C00000_0_0_0.png",Movistar+ Liga de Campeones 6 SD
+http://78.30.16.151:8001/1:0:1:7829:428:1:c00000:0:0:0:
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_1_7601_408_1_C00000_0_0_0.png",Movistar+ Liga de Campeones 7 SD
+http://78.30.16.151:8001/1:0:1:7822:428:1:c00000:0:0:0:
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_1_760A_408_1_C00000_0_0_0.png",Movistar+ Liga de Campeones 8 SD
+http://78.30.16.151:8001/1:0:1:7824:428:1:c00000:0:0:0:
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_1_7604_408_1_C00000_0_0_0.png",Movistar+ Liga de Campeones 9 SD
+http://78.30.16.151:8001/1:0:1:782c:428:1:c00000:0:0:0:
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_1_7608_408_1_C00000_0_0_0.png",Movistar+ Liga de Campeones 10 SD
+http://78.30.16.151:8001/1:0:1:782f:428:1:c00000:0:0:0:
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_1_760D_408_1_C00000_0_0_0.png",Movistar+ Liga de Campeones 11 SD
+http://78.30.16.151:8001/1:0:1:7820:428:1:c00000:0:0:0:
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_1_760F_408_1_C00000_0_0_0.png",Movistar+ Liga de Campeones 12 SD
+http://78.30.16.151:8001/1:0:1:7821:428:1:c00000:0:0:0:
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_1_7602_408_1_C00000_0_0_0.png",Movistar+ Liga de Campeones 13 SD
+http://78.30.16.151:8001/1:0:1:782b:428:1:c00000:0:0:0:
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_19_78C0_3EC_1_C00000_0_0_0.png",Movistar+ Deportes HD
+http://78.30.16.151:8001/1:0:19:78C0:3EC:1:C00000:0:0:0
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_19_7532_426_1_C00000_0_0_0.png",Movistar+ Deportes 2 HD
+http://78.30.16.151:8001/1:0:19:7532:426:1:C00000:0:0:0
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_1_77C2_40A_1_C00000_0_0_0.png",Movistar+ Deportes 3 SD
+http://78.30.16.151:8001/1:0:1:77C2:40A:1:C00000:0:0:0
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_1_77BF_40A_1_C00000_0_0_0.png",Movistar+ Deportes 4 SD
+http://78.30.16.151:8001/1:0:1:77BF:40A:1:C00000:0:0:0
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_1_77C8_40A_1_C00000_0_0_0.png",Movistar+ Deportes 5 SD
+http://78.30.16.151:8001/1:0:1:77C8:40A:1:C00000:0:0:0
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_1_769B_41E_1_C00000_0_0_0.png",Movistar+ Deportes 6 SD
+http://78.30.16.151:8001/1:0:1:769B:41E:1:C00000:0:0:0
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_1_75FF_408_1_C00000_0_0_0.png",Movistar+ Deportes 7 SD
+http://78.30.16.151:8001/1:0:1:75FF:408:1:C00000:0:0:0
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_19_78B7_3EC_1_C00000_0_0_0.png",Movistar+ Golf HD
+http://78.30.16.151:8001/1:0:19:78B7:3EC:1:C00000:0:0:0
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_1_756D_412_1_C00000_0_0_0.png",Movistar+ Golf 2 SD
+http://78.30.16.151:8001/1:0:1:756D:412:1:C00000:0:0:0
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_19_7534_426_1_C00000_0_0_0.png",DAZN LaLiga HD
+http://78.30.16.151:8001/1:0:19:7534:426:1:c00000:0:0:0:
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_19_74CE_3F8_1_C00000_0_0_0.png",DAZN LaLiga 2 HD
+http://78.30.16.151:8001/1:0:19:749d:41c:1:c00000:0:0:0:
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_19_7855_41A_1_C00000_0_0_0.png",DAZN 1 HD
+http://78.30.16.151:8001/1:0:1:76a4:41e:1:c00000:0:0:0:
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_19_785F_41A_1_C00000_0_0_0.png",DAZN 2 HD
+http://78.30.16.151:8001/1:0:19:785F:41A:1:C00000:0:0:0
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_19_785F_41A_1_C00000_0_0_0.png",DAZN 2 SD
+http://78.30.16.151:8001/1:0:1:772a:416:1:c00000:0:0:0:
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_1_77BE_40A_1_C00000_0_0_0.png",DAZN 3 SD
+http://78.30.16.151:8001/1:0:1:77BE:40A:1:C00000:0:0:0
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_1_77C0_40A_1_C00000_0_0_0.png",DAZN 4 SD
+http://78.30.16.151:8001/1:0:1:77C0:40A:1:C00000:0:0:0
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_19_7531_426_1_C00000_0_0_0.png",DAZN F1 HD
+http://78.30.16.151:8001/1:0:19:7531:426:1:C00000:0:0:0
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_19_74D6_3F8_1_C00000_0_0_0.png",LaLiga TV Hypermotion HD
+http://78.30.16.151:8001/1:0:19:74D6:3F8:1:C00000:0:0:0
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_19_74D6_3F8_1_C00000_0_0_0.png",LaLiga TV Hypermotion SD
+http://78.30.16.151:8001/1:0:19:749b:41c:1:c00000:0:0:0:
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_1_75FA_408_1_C00000_0_0_0.png",LaLiga TV Hypermotion 2 SD
+http://78.30.16.151:8001/1:0:1:7831:428:1:c00000:0:0:0:
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_1_7606_408_1_C00000_0_0_0.png",LaLiga TV Hypermotion 3 SD
+http://78.30.16.151:8001/1:0:1:782a:428:1:c00000:0:0:0:
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_19_7535_426_1_C00000_0_0_0.png",Eurosport 1 HD
+http://78.30.16.151:8001/1:0:19:7535:426:1:C00000:0:0:0
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_1_76A5_41E_1_C00000_0_0_0.png",Eurosport 2 SD
+http://78.30.16.151:8001/1:0:1:76A5:41E:1:C00000:0:0:0
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_1_74A3_41C_1_C00000_0_0_0.png",GOL TV SD
+http://78.30.16.151:8001/1:0:1:7890:414:1:c00000:0:0:0:
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_1_76CC_40E_1_C00000_0_0_0.png",TDP SD
+http://78.30.16.151:8001/1:0:1:76CC:40E:1:C00000:0:0:0
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_19_78B8_3EC_1_C00000_0_0_0.png",Caza y Pesca HD
+http://78.30.16.151:8001/1:0:19:78B8:3EC:1:C00000:0:0:0
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_1_746A_3F0_1_C00000_0_0_0.png",Iberalia TV SD
+http://78.30.16.151:8001/1:0:1:746A:3F0:1:C00000:0:0:0
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_1_778D_424_1_C00000_0_0_0.png",National Geographic SD
+http://78.30.16.151:8001/1:0:1:778D:424:1:C00000:0:0:0
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_1_7472_3F0_1_C00000_0_0_0.png",Nat Geo Wild SD
+http://78.30.16.151:8001/1:0:1:7472:3F0:1:C00000:0:0:0
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_1_7731_416_1_C00000_0_0_0.png",Historia SD
+http://78.30.16.151:8001/1:0:1:7731:416:1:C00000:0:0:0
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_1_772F_416_1_C00000_0_0_0.png",Discovery Channel SD
+http://78.30.16.151:8001/1:0:1:772F:416:1:C00000:0:0:0
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_1_76CE_40E_1_C00000_0_0_0.png",Canal Cocina SD
+http://78.30.16.151:8001/1:0:1:76CE:40E:1:C00000:0:0:0
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_1_7795_424_1_C00000_0_0_0.png",Canal Decasa SD
+http://78.30.16.151:8001/1:0:1:7795:424:1:C00000:0:0:0
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_1_749A_41C_1_C00000_0_0_0.png",Divinity SD
+http://78.30.16.151:8001/1:0:1:788b:414:1:c00000:0:0:0:
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_1_7469_3F0_1_C00000_0_0_0.png",Nova SD
+http://78.30.16.151:8001/1:0:1:7469:3F0:1:C00000:0:0:0
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_1_778A_424_1_C00000_0_0_0.png",Baby TV SD
+http://78.30.16.151:8001/1:0:1:778A:424:1:C00000:0:0:0
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_1_746B_3F0_1_C00000_0_0_0.png",Disney Junior SD
+http://78.30.16.151:8001/1:0:1:746B:3F0:1:C00000:0:0:0
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_1_76C4_40E_1_C00000_0_0_0.png",En Familia SD
+http://78.30.16.151:8001/1:0:1:76C4:40E:1:C00000:0:0:0
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_1_7697_41E_1_C00000_0_0_0.png",Nick JR SD
+http://78.30.16.151:8001/1:0:1:7697:41E:1:C00000:0:0:0
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_1_772E_416_1_C00000_0_0_0.png",Nickelodeon SD
+http://78.30.16.151:8001/1:0:1:772E:416:1:C00000:0:0:0
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_1_77C7_40A_1_C00000_0_0_0.png",Dreamworks SD
+http://78.30.16.151:8001/1:0:1:77C7:40A:1:C00000:0:0:0
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_1_76C3_40E_1_C00000_0_0_0.png",Disney Channel SD
+http://78.30.16.151:8001/1:0:1:76C3:40E:1:C00000:0:0:0
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_1_749E_41C_1_C00000_0_0_0.png",Boing SD
+http://78.30.16.151:8001/1:0:1:7888:414:1:c00000:0:0:0:
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_1_76C1_40E_1_C00000_0_0_0.png",Clan TVE SD
+http://78.30.16.151:8001/1:0:1:76C1:40E:1:C00000:0:0:0
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_1_74A2_41C_1_C00000_0_0_0.png",MTV SD
+http://78.30.16.151:8001/1:0:1:788f:414:1:c00000:0:0:0:
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_1_6FF0_436_1_C00000_0_0_0.png",MTV 00´s SD
+http://78.30.16.151:8001/1:0:1:6FF0:436:1:C00000:0:0:0
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_19_283E_3FB_1_C00000_0_0_0.png",Arte HD
+http://78.30.16.151:8001/1:0:19:283E:3FB:1:C00000:0:0:0
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_19_283E_3FB_1_C00000_0_0_0.png",Mezzo Live HD
+http://78.30.16.151:8001/1:0:19:74d3:3f8:1:c00000:0:0:0:
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_19_2B66_3F3_1_C00000_0_0_0.png",2DF HD
+http://78.30.16.151:8001/1:0:19:2B66:3F3:1:C00000:0:0:0
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_1_7738_416_1_C00000_0_0_0.png",24 Horas SD
+http://78.30.16.151:8001/1:0:1:7738:416:1:C00000:0:0:0
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_1_1389_3EA_1_C00000_0_0_0.png",BBC World SD
+http://78.30.16.151:8001/1:0:1:1389:3EA:1:C00000:0:0:0
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_1_164E_42C_1_C00000_0_0_0.png",CNN Int. SD
+http://78.30.16.151:8001/1:0:1:164E:42C:1:C00000:0:0:0
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_1_18F4_3F4_1_C00000_0_0_0.png",Euronews SD
+http://78.30.16.151:8001/1:0:1:18F4:3F4:1:C00000:0:0:0
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_19_13A7_3EA_1_C00000_0_0_0.png",Al Jazeera English HD
+http://78.30.16.151:8001/1:0:19:13A7:3EA:1:C00000:0:0:0
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_1_1AF9_3FE_1_C00000_0_0_0.png",France 24 SD
+http://78.30.16.151:8001/1:0:1:1AF9:3FE:1:C00000:0:0:0
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_1_1AFA_3FE_1_C00000_0_0_0.png",France 24 (in English) SD
+http://78.30.16.151:8001/1:0:1:1AFA:3FE:1:C00000:0:0:0
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_19_7D_B_85_C00000_0_0_0.png",CNBC Europe HD
+http://78.30.16.151:8001/1:0:19:7D:B:85:C00000:0:0:0
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_1_1B03_3FE_1_C00000_0_0_0.png",TV5 Monde Europe SD
+http://78.30.16.151:8001/1:0:1:1B03:3FE:1:C00000:0:0:0
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_1_1C20_457_1_C00000_0_0_0.png",Bloomberg Europe TV SD
+http://78.30.16.151:8001/1:0:1:1C20:457:1:C00000:0:0:0
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_1_1C7A_457_1_C00000_0_0_0.png",Sky News SD
+http://78.30.16.151:8001/1:0:1:1C7A:457:1:C00000:0:0:0
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_1_7A4B_410_1_C00000_0_0_0.png",i24 News SD
+http://78.30.16.151:8001/1:0:1:7A4B:410:1:C00000:0:0:0
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_19_139D_3EA_1_C00000_0_0_0.png",NHK World TV HD
+http://78.30.16.151:8001/1:0:19:139D:3EA:1:C00000:0:0:0
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_1_1B64_3FC_1_C00000_0_0_0.png",Arirang TV SD
+http://78.30.16.151:8001/1:0:1:1B64:3FC:1:C00000:0:0:0
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_19_1647_42C_1_C00000_0_0_0.png",Cubavisión HD
+http://78.30.16.151:8001/1:0:19:1647:42C:1:C00000:0:0:0
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_19_7A49_410_1_C00000_0_0_0.png",Telesur HD
+http://78.30.16.151:8001/1:0:19:7A49:410:1:C00000:0:0:0
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_1_2F9A_454_1_C00000_0_0_0.png",SBN SD
+http://78.30.16.151:8001/1:0:1:2F9A:454:1:C00000:0:0:0
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_1_7729_416_1_C00000_0_0_0.png",Canal Sur Andalucía SD
+http://78.30.16.151:8001/1:0:1:7729:416:1:C00000:0:0:0
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_1_18F1_3F4_1_C00000_0_0_0.png",TVG Europa SD
+http://78.30.16.151:8001/1:0:1:18F1:3F4:1:C00000:0:0:0
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_1_18F0_3F4_1_C00000_0_0_0.png",Canal Extremadura Sat SD
+http://78.30.16.151:8001/1:0:1:18F0:3F4:1:C00000:0:0:0
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_1_7473_3F0_1_C00000_0_0_0.png",Aragón TV Int SD
+http://78.30.16.151:8001/1:0:1:7473:3F0:1:C00000:0:0:0
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_1_778B_424_1_C00000_0_0_0.png",Playboy TV
+http://78.30.16.151:8001/1:0:1:778B:424:1:C00000:0:0:0
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_1_759E_422_1_C00000_0_0_0.png",Bajo Demanda
+http://78.30.16.151:8001/1:0:1:759E:422:1:C00000:0:0:0
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_1_7568_412_1_C00000_0_0_0.png",Alquiler X
+http://78.30.16.151:8001/1:0:1:7568:412:1:C00000:0:0:0
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_1_7569_412_1_C00000_0_0_0.png",Alquiler XX
+http://78.30.16.151:8001/1:0:1:7569:412:1:C00000:0:0:0
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_1_7695_41E_1_C00000_0_0_0.png",Alquiler XY
+http://78.30.16.151:8001/1:0:1:7695:41E:1:C00000:0:0:0
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_1_75B0_422_1_C00000_0_0_0.png",Alquiler
+http://78.30.16.151:8001/1:0:1:75B0:422:1:C00000:0:0:0
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_1_768E_41E_1_C00000_0_0_0.png",Alquiler 1
+http://78.30.16.151:8001/1:0:1:768E:41E:1:C00000:0:0:0
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_19_7854_41A_1_C00000_0_0_0.png",Alquiler HD
+http://78.30.16.151:8001/1:0:19:7854:41A:1:C00000:0:0:0
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_1_778E_424_1_C00000_0_0_0.png",#Vamos Bar SD
+http://78.30.16.151:8001/1:0:1:778E:424:1:C00000:0:0:0
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_1_756C_412_1_C00000_0_0_0.png",#Vamos Bar 2 SD
+http://78.30.16.151:8001/1:0:1:756C:412:1:C00000:0:0:0
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_1_7584_412_1_C00000_0_0_0.png",#Vamos Bar 3 SD
+http://78.30.16.151:8001/1:0:1:7584:412:1:C00000:0:0:0
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_19_7859_41A_1_C00000_0_0_0.png",LaLiga TV Bar HD
+http://78.30.16.151:8001/1:0:19:7859:41A:1:C00000:0:0:0
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_1_7793_424_1_C00000_0_0_0.png",LaLiga TV Bar SD
+http://78.30.16.151:8001/1:0:1:7793:424:1:C00000:0:0:0
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_1_76C5_40E_1_C00000_0_0_0.png",LaLiga TV Bar 2 SD
+http://78.30.16.151:8001/1:0:1:76C5:40E:1:C00000:0:0:0
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_1_769A_41E_1_C00000_0_0_0.png",LaLiga TV Bar 3 SD
+http://78.30.16.151:8001/1:0:1:769A:41E:1:C00000:0:0:0
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_1_7610_408_1_C00000_0_0_0.png",LaLiga TV Bar 4 SD
+http://78.30.16.151:8001/1:0:1:7610:408:1:C00000:0:0:0
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_1_75DD_422_1_C00000_0_0_0.png",Canal Test SD
+http://78.30.16.151:8001/1:0:1:75DD:422:1:C00000:0:0:0
+#EXTINF:-1 tvg-logo="https://sciurus.tel/logos/1_0_1_75E2_422_1_C00000_0_0_0.png",Canal Test SD
+http://78.30.16.151:8001/1:0:1:75E2:422:1:C00000:0:0:0
