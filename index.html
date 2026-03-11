@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Generador M3U SATIPTV</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 20px;
+      max-width: 1000px;
+    }
+    h1 {
+      margin-bottom: 10px;
+    }
+    .info {
+      margin-bottom: 15px;
+      padding: 10px;
+      background: #f3f3f3;
+      border-radius: 8px;
+    }
+    textarea {
+      width: 100%;
+      height: 400px;
+      font-family: monospace;
+      font-size: 14px;
+      white-space: pre;
+    }
+    button {
+      margin-top: 10px;
+      margin-right: 10px;
+      padding: 10px 14px;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+  <h1>Generador M3U SATIPTV</h1>
+
+  <div class="info">
+    <div><b>Total de IPs:</b> <span id="total">0</span></div>
+    <div><b>Línea base:</b> <span id="baseLine">-</span></div>
+  </div>
+
+  <textarea id="output" readonly></textarea>
+  <br>
+  <button id="copyBtn">Copiar resultado</button>
+  <button id="downloadBtn">Descargar .m3u</button>
+
+  <script>
+    async function cargarArchivo(ruta) {
+      const res = await fetch(ruta, { cache: "no-store" });
+      if (!res.ok) throw new Error("No se pudo cargar " + ruta);
+      return await res.text();
+    }
+
+    async function iniciar() {
+      try {
+        const ipsText = await cargarArchivo("ips.txt");
+        const baseText = await cargarArchivo("base.txt");
+
+        const ips = ipsText
+          .split(/\r?\n/)
+          .map(x => x.trim())
+          .filter(Boolean);
+
+        const base = baseText.trim();
+
+        const resultado = ips.map(ip => base.replace(/IP/g, ip)).join("\n");
+
+        document.getElementById("total").textContent = ips.length;
+        document.getElementById("baseLine").textContent = base;
+        document.getElementById("output").value = resultado;
+      } catch (e) {
+        document.getElementById("output").value = "Error: " + e.message;
+      }
+    }
+
+    document.getElementById("copyBtn").addEventListener("click", async () => {
+      const text = document.getElementById("output").value;
+      await navigator.clipboard.writeText(text);
+    });
+
+    document.getElementById("downloadBtn").addEventListener("click", () => {
+      const contenido = document.getElementById("output").value;
+      const blob = new Blob([contenido], { type: "audio/x-mpegurl" });
+      const url = URL.createObjectURL(blob);
+
+      const a = document.createElement("a");
+      a.href = url;
+      a.download = "lista.m3u";
+      a.click();
+
+      URL.revokeObjectURL(url);
+    });
+
+    iniciar();
+  </script>
+</body>
+</html>
