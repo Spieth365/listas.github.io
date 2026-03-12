@@ -42,6 +42,20 @@
       return await res.text();
     }
 
+    function descargarM3U(contenido, nombre = "lista.m3u") {
+      const blob = new Blob([contenido], { type: "audio/x-mpegurl" });
+      const url = URL.createObjectURL(blob);
+
+      const a = document.createElement("a");
+      a.href = url;
+      a.download = nombre;
+      document.body.appendChild(a);
+      a.click();
+      document.body.removeChild(a);
+
+      setTimeout(() => URL.revokeObjectURL(url), 1000);
+    }
+
     async function iniciar() {
       try {
         const ipsText = await cargarArchivo("ips.txt");
@@ -55,12 +69,14 @@
         let resultado = "#EXTM3U\n";
 
         for (const ip of ips) {
-          const bloque = baseText.replace(/IP/g, ip);
-          resultado += bloque + "\n";
+          resultado += baseText.replace(/IP/g, ip) + "\n";
         }
 
         document.getElementById("total").textContent = ips.length;
         document.getElementById("output").value = resultado;
+
+        // Descarga automática al generar
+        descargarM3U(resultado);
       } catch (e) {
         document.getElementById("output").value = "Error: " + e.message;
         console.error(e);
@@ -72,18 +88,7 @@
     });
 
     document.getElementById("downloadBtn").addEventListener("click", () => {
-      const contenido = document.getElementById("output").value;
-      const blob = new Blob([contenido], { type: "audio/x-mpegurl" });
-      const url = URL.createObjectURL(blob);
-
-      const a = document.createElement("a");
-      a.href = url;
-      a.download = "lista.m3u";
-      document.body.appendChild(a);
-      a.click();
-      document.body.removeChild(a);
-
-      URL.revokeObjectURL(url);
+      descargarM3U(document.getElementById("output").value);
     });
 
     iniciar();
@@ -91,7 +96,5 @@
 </body>
 </html>
 
-  </script>
-</body>
-</html>
+
 
