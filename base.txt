@@ -1,242 +1,241 @@
 #EXTM3U x-tvg-url="local_xmltv.xml"
-#EXTINF:-1 tvg-logo="https://spieth365.github.io/listas.github.io/picon/1_0_1_76C2_40E_1_C00000_0_0_0.png" tvg-id="tve" group-title="ES",La 1
+#EXTINF:-1 tvg-id="tve" tvg-logo="https://www.sciurus.tel/logos/La%201.png" group-title="ES",La 1
 http://IP:8001/1:0:1:76C2:40E:1:C00000:0:0:0:
-#EXTINF:-1 tvg-logo="https://spieth365.github.io/listas.github.io/picon/1_0_1_2C89_41A_1_C00000_0_0_0.png" tvg-id="la2" group-title="ES",La 2
+#EXTINF:-1 tvg-id="la2" tvg-logo="https://www.sciurus.tel/logos/NoLogo.png" group-title="ES",La 2
 http://IP:8001/1:0:1:2C89:41A:1:C00000:0:0:0:
-#EXTINF:-1 tvg-logo="https://spieth365.github.io/listas.github.io/picon/1_0_1_772C_416_1_C00000_0_0_0.png" tvg-id="a3" group-title="ES",Antena 3
+#EXTINF:-1 tvg-id="a3" tvg-logo="https://www.sciurus.tel/logos/Antena%203.png" group-title="ES",Antena 3
 http://IP:8001/1:0:1:772C:416:1:C00000:0:0:0:
-#EXTINF:-1 tvg-logo="https://spieth365.github.io/listas.github.io/picon/1_0_1_7792_424_1_C00000_0_0_0.png" tvg-id="c4" group-title="ES",Cuatro
+#EXTINF:-1 tvg-id="c4" tvg-logo="https://www.sciurus.tel/logos/Cuatro.png" group-title="ES",Cuatro
 http://IP:8001/1:0:1:7792:424:1:C00000:0:0:0:
-#EXTINF:-1 tvg-logo="https://spieth365.github.io/listas.github.io/picon/1_0_1_778C_424_1_C00000_0_0_0.png" tvg-id="t5" group-title="ES",Telecinco
+#EXTINF:-1 tvg-id="t5" tvg-logo="https://www.sciurus.tel/logos/Telecinco.png" group-title="ES",Telecinco
 http://IP:8001/1:0:1:778C:424:1:C00000:0:0:0:
-#EXTINF:-1 tvg-logo="https://spieth365.github.io/listas.github.io/picon/1_0_1_769E_41E_1_C00000_0_0_0.png" tvg-id="sexta" group-title="ES",La Sexta
+#EXTINF:-1 tvg-id="sexta" tvg-logo="https://www.sciurus.tel/logos/La%20Sexta.png" group-title="ES",La Sexta
 http://IP:8001/1:0:1:769E:41E:1:C00000:0:0:0:
-#EXTINF:-1 tvg-logo="https://spieth365.github.io/listas.github.io/picon/1_0_19_7508_420_1_C00000_0_0_0.png" tvg-id="vamosd" group-title="ES",M+ Vamos
+#EXTINF:-1 tvg-id="vamosd" tvg-logo="https://www.sciurus.tel/logos/M%20Vamos.png" group-title="ES",M+ Vamos
 http://IP:8001/1:0:19:7508:420:1:C00000:0:0:0:
-#EXTINF:-1 tvg-logo="https://spieth365.github.io/listas.github.io/picon/1_0_19_7539_426_1_C00000_0_0_0.png" tvg-id="mv1" group-title="ES",M+ Estrenos
+#EXTINF:-1 tvg-id="mv1" tvg-logo="https://www.sciurus.tel/logos/M%20Estrenos.png" group-title="ES",M+ Estrenos
 http://IP:8001/1:0:19:7539:426:1:C00000:0:0:0:
-#EXTINF:-1 tvg-logo="https://spieth365.github.io/listas.github.io/picon/1_0_19_78B6_3EC_1_C00000_0_0_0.png" tvg-id="mhits" group-title="ES",M+ Hits
+#EXTINF:-1 tvg-id="mhits" tvg-logo="https://www.sciurus.tel/logos/M%20Hits.png" group-title="ES",M+ Hits
 http://IP:8001/1:0:19:78B6:3EC:1:C00000:0:0:0:
-#EXTINF:-1 tvg-logo="https://spieth365.github.io/listas.github.io/picon/1_0_19_750C_420_1_C00000_0_0_0.png" tvg-id="morig" group-title="ES",M+ Originales
+#EXTINF:-1 tvg-id="morig" tvg-logo="https://www.sciurus.tel/logos/M%20Originales.png" group-title="ES",M+ Originales
 http://IP:8001/1:0:19:750C:420:1:C00000:0:0:0:
-#EXTINF:-1 tvg-logo="https://spieth365.github.io/listas.github.io/picon/1_0_1_7885_414_1_C00000_0_0_0.png" tvg-id="mvciva" group-title="ES",M+ Vacaciones
+#EXTINF:-1 tvg-id="mvciva" tvg-logo="https://www.sciurus.tel/logos/M%20Vacaciones.png" group-title="ES",M+ Vacaciones
 http://IP:8001/1:0:1:7885:414:1:C00000:0:0:0:
-#EXTINF:-1 tvg-logo="https://spieth365.github.io/listas.github.io/picon/1_0_19_78BE_3EC_1_C00000_0_0_0.png" tvg-id="mdoc" group-title="ES",M+ Documentales
+#EXTINF:-1 tvg-id="mdoc" tvg-logo="https://www.sciurus.tel/logos/M%20Documentales.png" group-title="ES",M+ Documentales
 http://IP:8001/1:0:19:78BE:3EC:1:C00000:0:0:0:
-#EXTINF:-1 tvg-logo="https://spieth365.github.io/listas.github.io/picon/1_0_1_7696_41E_1_C00000_0_0_0.png" tvg-id="morgul" group-title="ES",M+ Orgullo
+#EXTINF:-1 tvg-id="morgul" tvg-logo="https://www.sciurus.tel/logos/M%20Orgullo.png" group-title="ES",M+ Orgullo
 http://IP:8001/1:0:1:7696:41E:1:C00000:0:0:0:
-#EXTINF:-1 tvg-logo="https://spieth365.github.io/listas.github.io/picon/1_0_19_78BF_3EC_1_C00000_0_0_0.png" tvg-id="mclas" group-title="ES",M+ Clásicos
+#EXTINF:-1 tvg-id="mclas" tvg-logo="https://www.sciurus.tel/logos/M%20Clasicos.png" group-title="ES",M+ Clásicos
 http://IP:8001/1:0:19:78BF:3EC:1:C00000:0:0:0:
-#EXTINF:-1 tvg-logo="https://spieth365.github.io/listas.github.io/picon/1_0_19_7509_420_1_C00000_0_0_0.png" tvg-id="cpacci" group-title="ES",M+ Acción
+#EXTINF:-1 tvg-id="cpacci" tvg-logo="https://www.sciurus.tel/logos/M%20Accion.png" group-title="ES",M+ Acción
 http://IP:8001/1:0:19:7509:420:1:C00000:0:0:0:
-#EXTINF:-1 tvg-logo="https://spieth365.github.io/listas.github.io/picon/1_0_19_7537_426_1_C00000_0_0_0.png" tvg-id="cpcome" group-title="ES",M+ Comedia
+#EXTINF:-1 tvg-id="cpcome" tvg-logo="https://www.sciurus.tel/logos/M%20Comedia.png" group-title="ES",M+ Comedia
 http://IP:8001/1:0:19:7537:426:1:C00000:0:0:0:
-#EXTINF:-1 tvg-logo="https://spieth365.github.io/listas.github.io/picon/1_0_19_750B_420_1_C00000_0_0_0.png" tvg-id="cpcole" group-title="ES",M+ Drama
+#EXTINF:-1 tvg-id="cpcole" tvg-logo="https://www.sciurus.tel/logos/M%20Drama.png" group-title="ES",M+ Drama
 http://IP:8001/1:0:19:750B:420:1:C00000:0:0:0:
-#EXTINF:-1 tvg-logo="https://spieth365.github.io/listas.github.io/picon/1_0_19_7533_426_1_C00000_0_0_0.png" tvg-id="mindi" group-title="ES",M+ Indie
+#EXTINF:-1 tvg-id="mindi" tvg-logo="https://www.sciurus.tel/logos/M%20Indie.png" group-title="ES",M+ Indie
 http://IP:8001/1:0:19:7533:426:1:C00000:0:0:0:
-#EXTINF:-1 tvg-logo="https://spieth365.github.io/listas.github.io/picon/1_0_1_7736_416_1_C00000_0_0_0.png" tvg-id="dcesp" group-title="ES",M+ Cine Español
+#EXTINF:-1 tvg-id="dcesp" tvg-logo="https://www.sciurus.tel/logos/M%20Cine%20Espanol.png" group-title="ES",M+ Cine Español
 http://IP:8001/1:0:1:7736:416:1:C00000:0:0:0:
-#EXTINF:-1 tvg-logo="https://spieth365.github.io/listas.github.io/picon/1_0_1_76C7_40E_1_C00000_0_0_0.png" tvg-id="tcm" group-title="ES",TCM
+#EXTINF:-1 tvg-id="tcm" tvg-logo="https://www.sciurus.tel/logos/TCM.png" group-title="ES",TCM
 http://IP:8001/1:0:1:76C7:40E:1:C00000:0:0:0:
-#EXTINF:-1 tvg-logo="https://spieth365.github.io/listas.github.io/picon/1_0_1_757F_412_1_C00000_0_0_0.png" tvg-id="set" group-title="ES",AXN Movies
+#EXTINF:-1 tvg-id="set" tvg-logo="https://www.sciurus.tel/logos/AXN%20Movies.png" group-title="ES",AXN Movies
 http://IP:8001/1:0:1:757F:412:1:C00000:0:0:0:
-#EXTINF:-1 tvg-logo="https://spieth365.github.io/listas.github.io/picon/1_0_1_77C1_40A_1_C00000_0_0_0.png" tvg-id="bbdra" group-title="ES",BBC Series
+#EXTINF:-1 tvg-id="bbdra" tvg-logo="https://www.sciurus.tel/logos/BBC%20Series.png" group-title="ES",BBC Series
 http://IP:8001/1:0:1:77C1:40A:1:C00000:0:0:0:
-#EXTINF:-1 tvg-logo="https://spieth365.github.io/listas.github.io/picon/1_0_1_7795_424_1_C00000_0_0_0.png" tvg-id="bbgea" group-title="ES",BBC Top Gear
+#EXTINF:-1 tvg-id="bbgea" tvg-logo="https://www.sciurus.tel/logos/BBC%20Top%20Gear.png" group-title="ES",BBC Top Gear
 http://IP:8001/1:0:1:7795:424:1:C00000:0:0:0:
-#EXTINF:-1 tvg-logo="https://spieth365.github.io/listas.github.io/picon/1_0_1_7891_414_1_C00000_0_0_0.png" tvg-id="bemad" group-title="ES",Be Mad
+#EXTINF:-1 tvg-id="bemad" tvg-logo="https://www.sciurus.tel/logos/Be%20Mad.png" group-title="ES",Be Mad
 http://IP:8001/1:0:1:7891:414:1:C00000:0:0:0:
-#EXTINF:-1 tvg-logo="https://spieth365.github.io/listas.github.io/picon/1_0_1_746F_3F0_1_C00000_0_0_0.png" tvg-id="foxge" group-title="ES",STAR Channel
+#EXTINF:-1 tvg-id="foxge" tvg-logo="https://www.sciurus.tel/logos/STAR%20Channel.png" group-title="ES",STAR Channel
 http://IP:8001/1:0:1:746F:3F0:1:C00000:0:0:0:
-#EXTINF:-1 tvg-logo="https://spieth365.github.io/listas.github.io/picon/1_0_1_7477_3F0_1_C00000_0_0_0.png" tvg-id="axn" group-title="ES",AXN
+#EXTINF:-1 tvg-id="axn" tvg-logo="https://www.sciurus.tel/logos/AXN.png" group-title="ES",AXN
 http://IP:8001/1:0:1:7477:3F0:1:C00000:0:0:0:
-#EXTINF:-1 tvg-logo="https://spieth365.github.io/listas.github.io/picon/1_0_1_76CB_40E_1_C00000_0_0_0.png" tvg-id="tnt" group-title="ES",Warner TV
+#EXTINF:-1 tvg-id="tnt" tvg-logo="https://www.sciurus.tel/logos/Warner%20TV.png" group-title="ES",Warner TV
 http://IP:8001/1:0:1:76CB:40E:1:C00000:0:0:0:
-#EXTINF:-1 tvg-logo="https://spieth365.github.io/listas.github.io/picon/1_0_1_76C8_40E_1_C00000_0_0_0.png" tvg-id="pcm" group-title="ES",Comedy Central
+#EXTINF:-1 tvg-id="pcm" tvg-logo="https://www.sciurus.tel/logos/Comedy%20Central.png" group-title="ES",Comedy Central
 http://IP:8001/1:0:1:76C8:40E:1:C00000:0:0:0:
-#EXTINF:-1 tvg-logo="https://spieth365.github.io/listas.github.io/picon/1_0_1_7790_424_1_C00000_0_0_0.png" tvg-id="cl13" group-title="ES",Calle 13
+#EXTINF:-1 tvg-id="cl13" tvg-logo="https://www.sciurus.tel/logos/Calle%2013.png" group-title="ES",Calle 13
 http://IP:8001/1:0:1:7790:424:1:C00000:0:0:0:
-#EXTINF:-1 tvg-logo="https://spieth365.github.io/listas.github.io/picon/1_0_1_7730_416_1_C00000_0_0_0.png" tvg-id="cosmo" group-title="ES",COSMO
+#EXTINF:-1 tvg-id="cosmo" tvg-logo="https://www.sciurus.tel/logos/COSMO.png" group-title="ES",COSMO
 http://IP:8001/1:0:1:7730:416:1:C00000:0:0:0:
-#EXTINF:-1 tvg-logo="https://spieth365.github.io/listas.github.io/picon/1_0_1_7796_424_1_C00000_0_0_0.png" tvg-id="sci-fi" group-title="ES",SYFY
+#EXTINF:-1 tvg-id="sci-fi" tvg-logo="https://www.sciurus.tel/logos/SYFY.png" group-title="ES",SYFY
 http://IP:8001/1:0:1:7796:424:1:C00000:0:0:0:
-#EXTINF:-1 tvg-logo="https://spieth365.github.io/listas.github.io/picon/1_0_1_7889_414_1_C00000_0_0_0.png" tvg-id="energy" group-title="ES",Energy
+#EXTINF:-1 tvg-id="energy" tvg-logo="https://www.sciurus.tel/logos/Energy.png" group-title="ES",Energy
 http://IP:8001/1:0:1:7889:414:1:C00000:0:0:0:
-#EXTINF:-1 tvg-logo="https://spieth365.github.io/listas.github.io/picon/1_0_1_77BC_40A_1_C00000_0_0_0.png" tvg-id="fdfic" group-title="ES",Factoría de Ficción
+#EXTINF:-1 tvg-id="fdfic" tvg-logo="https://www.sciurus.tel/logos/Factoria%20de%20Ficcion.png" group-title="ES",Factoría de Ficción
 http://IP:8001/1:0:1:77BC:40A:1:C00000:0:0:0:
-#EXTINF:-1 tvg-logo="https://spieth365.github.io/listas.github.io/picon/1_0_1_7587_412_1_C00000_0_0_0.png" tvg-id="neox" group-title="ES",Neox
+#EXTINF:-1 tvg-id="neox" tvg-logo="https://www.sciurus.tel/logos/Neox.png" group-title="ES",Neox
 http://IP:8001/1:0:1:7587:412:1:C00000:0:0:0:
-#EXTINF:-1 tvg-logo="https://spieth365.github.io/listas.github.io/picon/1_0_19_74A8_41C_1_C00000_0_0_0.png" tvg-id="vam2sd" group-title="ES",M+ Vamos 2
+#EXTINF:-1 tvg-id="vam2sd" tvg-logo="https://www.sciurus.tel/logos/M%20Vamos%202.png" group-title="ES",M+ Vamos 2
 http://IP:8001/1:0:19:74A8:41C:1:C00000:0:0:0:
-#EXTINF:-1 tvg-logo="https://spieth365.github.io/listas.github.io/picon/1_0_19_78B5_3EC_1_C00000_0_0_0.png" tvg-id="mellav" group-title="ES",M+ Vamos 3
+#EXTINF:-1 tvg-id="mellav" tvg-logo="https://www.sciurus.tel/logos/M%20Vamos%203.png" group-title="ES",M+ Vamos 3
 http://IP:8001/1:0:19:78B5:3EC:1:C00000:0:0:0:
-#EXTINF:-1 tvg-logo="https://spieth365.github.io/listas.github.io/picon/1_0_19_7504_420_1_C00000_0_0_0.png" tvg-id="mcopa" group-title="ES",Primera Federación
+#EXTINF:-1 tvg-id="mcopa" tvg-logo="https://www.sciurus.tel/logos/Primera%20Federacion.png" group-title="ES",Primera Federación
 http://IP:8001/1:0:19:7504:420:1:C00000:0:0:0:
-#EXTINF:-1 tvg-logo="https://spieth365.github.io/listas.github.io/picon/1_0_19_750F_420_1_C00000_0_0_0.png" tvg-id="mliga" group-title="ES",M+ LaLiga
+#EXTINF:-1 tvg-id="mliga" tvg-logo="https://www.sciurus.tel/logos/M%20LaLiga.png" group-title="ES",M+ LaLiga
 http://IP:8001/1:0:19:750F:420:1:C00000:0:0:0:
-#EXTINF:-1 tvg-logo="https://spieth365.github.io/listas.github.io/picon/1_0_19_7534_426_1_C00000_0_0_0.png" tvg-id="daznli" group-title="ES",DAZN Mundial
+#EXTINF:-1 tvg-id="daznli" tvg-logo="https://www.sciurus.tel/logos/DAZN%20Mundial.png" group-title="ES",DAZN Mundial
 http://IP:8001/1:0:19:7534:426:1:C00000:0:0:0:
-#EXTINF:-1 tvg-logo="https://spieth365.github.io/listas.github.io/picon/1_0_19_749B_41C_1_C00000_0_0_0.png" tvg-id="mligs" group-title="ES",LaLiga TV Hypermotion
+#EXTINF:-1 tvg-id="mligs" tvg-logo="https://www.sciurus.tel/logos/LaLiga%20TV%20Hypermotion.png" group-title="ES",LaLiga TV Hypermotion
 http://IP:8001/1:0:19:749B:41C:1:C00000:0:0:0:
-#EXTINF:-1 tvg-logo="https://spieth365.github.io/listas.github.io/picon/1_0_19_750D_420_1_C00000_0_0_0.png" tvg-id="mlig1" group-title="ES",M+ Fanzone
+#EXTINF:-1 tvg-id="mlig1" tvg-logo="https://www.sciurus.tel/logos/M%20LaLiga%202.png" group-title="ES",M+ LaLiga 2
 http://IP:8001/1:0:19:750D:420:1:C00000:0:0:0:
-#EXTINF:-1 tvg-logo="https://spieth365.github.io/listas.github.io/picon/1_0_19_749D_41C_1_C00000_0_0_0.png" tvg-id="daznl2" group-title="ES",DAZN Mundial 2
+#EXTINF:-1 tvg-id="daznl2" tvg-logo="https://www.sciurus.tel/logos/DAZN%20Mundial%202.png" group-title="ES",DAZN Mundial 2
 http://IP:8001/1:0:19:749D:41C:1:C00000:0:0:0:
-#EXTINF:-1 tvg-logo="https://spieth365.github.io/listas.github.io/picon/1_0_1_7831_428_1_C00000_0_0_0.png" tvg-id="mligs2" group-title="ES",LaLiga TV Hypermotion 2
+#EXTINF:-1 tvg-id="mligs2" tvg-logo="https://www.sciurus.tel/logos/LaLiga%20TV%20Hypermotion%202.png" group-title="ES",LaLiga TV Hypermotion 2
 http://IP:8001/1:0:1:7831:428:1:C00000:0:0:0:
-#EXTINF:-1 tvg-logo="https://spieth365.github.io/listas.github.io/picon/1_0_19_78B4_3EC_1_C00000_0_0_0.png" tvg-id="chapio" group-title="ES",M+ Liga de Campeones
+#EXTINF:-1 tvg-id="chapio" tvg-logo="https://www.sciurus.tel/logos/M%20Liga%20de%20Campeones.png" group-title="ES",M+ Liga de Campeones
 http://IP:8001/1:0:19:78B4:3EC:1:C00000:0:0:0:
-#EXTINF:-1 tvg-logo="https://spieth365.github.io/listas.github.io/picon/1_0_19_749E_41C_1_C00000_0_0_0.png" tvg-id="chap1" group-title="ES",M+ Liga de Campeones 2
+#EXTINF:-1 tvg-id="chap1" tvg-logo="https://www.sciurus.tel/logos/M%20Liga%20de%20Campeones%202.png" group-title="ES",M+ Liga de Campeones 2
 http://IP:8001/1:0:19:749E:41C:1:C00000:0:0:0:
-#EXTINF:-1 tvg-logo="https://spieth365.github.io/listas.github.io/picon/1_0_19_749F_41C_1_C00000_0_0_0.png" tvg-id="chap2" group-title="ES",M+ Liga de Campeones 3
+#EXTINF:-1 tvg-id="chap2" tvg-logo="https://www.sciurus.tel/logos/M%20Liga%20de%20Campeones%203.png" group-title="ES",M+ Liga de Campeones 3
 http://IP:8001/1:0:19:749F:41C:1:C00000:0:0:0:
-#EXTINF:-1 tvg-logo="https://spieth365.github.io/listas.github.io/picon/1_0_19_78C0_3EC_1_C00000_0_0_0.png" tvg-id="cpdep" group-title="ES",M+ Deportes
+#EXTINF:-1 tvg-id="cpdep" tvg-logo="https://www.sciurus.tel/logos/M%20Deportes.png" group-title="ES",M+ Deportes
 http://IP:8001/1:0:19:78C0:3EC:1:C00000:0:0:0:
-#EXTINF:-1 tvg-logo="https://spieth365.github.io/listas.github.io/picon/1_0_19_7532_426_1_C00000_0_0_0.png" tvg-id="arthur" group-title="ES",M+ Deportes 2
+#EXTINF:-1 tvg-id="arthur" tvg-logo="https://www.sciurus.tel/logos/M%20Deportes%202.png" group-title="ES",M+ Deportes 2
 http://IP:8001/1:0:19:7532:426:1:C00000:0:0:0:
-#EXTINF:-1 tvg-logo="https://spieth365.github.io/listas.github.io/picon/1_0_1_77C2_40A_1_C00000_0_0_0.png" tvg-id="usop2" group-title="ES",M+ Deportes 3
+#EXTINF:-1 tvg-id="usop2" tvg-logo="https://www.sciurus.tel/logos/M%20Deportes%203.png" group-title="ES",M+ Deportes 3
 http://IP:8001/1:0:1:77C2:40A:1:C00000:0:0:0:
-#EXTINF:-1 tvg-logo="https://spieth365.github.io/listas.github.io/picon/1_0_19_7536_426_1_C00000_0_0_0.png" tvg-id="mbalct" group-title="ES",M+ Baloncesto
+#EXTINF:-1 tvg-id="mbalct" tvg-logo="https://www.sciurus.tel/logos/M%20Baloncesto.png" group-title="ES",M+ Baloncesto
 http://IP:8001/1:0:19:7536:426:1:C00000:0:0:0:
-#EXTINF:-1 tvg-logo="https://spieth365.github.io/listas.github.io/picon/1_0_1_756B_412_1_C00000_0_0_0.png" tvg-id="mbalc2" group-title="ES",M+ Baloncesto 2
+#EXTINF:-1 tvg-id="mbalc2" tvg-logo="https://www.sciurus.tel/logos/M%20Baloncesto%202.png" group-title="ES",M+ Baloncesto 2
 http://IP:8001/1:0:1:756B:412:1:C00000:0:0:0:
-#EXTINF:-1 tvg-logo="https://spieth365.github.io/listas.github.io/picon/1_0_19_78B7_3EC_1_C00000_0_0_0.png" tvg-id="golf+" group-title="ES",M+ Golf
+#EXTINF:-1 tvg-id="golf+" tvg-logo="https://www.sciurus.tel/logos/M%20Golf.png" group-title="ES",M+ Golf
 http://IP:8001/1:0:19:78B7:3EC:1:C00000:0:0:0:
-#EXTINF:-1 tvg-logo="https://spieth365.github.io/listas.github.io/picon/1_0_1_756D_412_1_C00000_0_0_0.png" tvg-id="golf2" group-title="ES",M+ Golf 2
+#EXTINF:-1 tvg-id="golf2" tvg-logo="https://www.sciurus.tel/logos/M%20Golf%202.png" group-title="ES",M+ Golf 2
 http://IP:8001/1:0:1:756D:412:1:C00000:0:0:0:
-#EXTINF:-1 tvg-logo="https://spieth365.github.io/listas.github.io/picon/1_0_19_7531_426_1_C00000_0_0_0.png" tvg-id="mvf1" group-title="ES",DAZN F1
+#EXTINF:-1 tvg-id="mvf1" tvg-logo="https://www.sciurus.tel/logos/DAZN%20F1.png" group-title="ES",DAZN F1
 http://IP:8001/1:0:19:7531:426:1:C00000:0:0:0:
-#EXTINF:-1 tvg-logo="https://spieth365.github.io/listas.github.io/picon/1_0_1_7569_412_1_C00000_0_0_0.png" tvg-id="dazmot" group-title="ES",DAZN MotoGP
+#EXTINF:-1 tvg-id="dazmot" tvg-logo="https://www.sciurus.tel/logos/DAZN%20MotoGP.png" group-title="ES",DAZN MotoGP
 http://IP:8001/1:0:1:7569:412:1:C00000:0:0:0:
-#EXTINF:-1 tvg-logo="https://spieth365.github.io/listas.github.io/picon/1_0_1_76A4_41E_1_C00000_0_0_0.png" tvg-id="m1sd" group-title="ES",DAZN 1
+#EXTINF:-1 tvg-id="m1sd" tvg-logo="https://www.sciurus.tel/logos/DAZN%201.png" group-title="ES",DAZN 1
 http://IP:8001/1:0:1:76A4:41E:1:C00000:0:0:0:
-#EXTINF:-1 tvg-logo="https://spieth365.github.io/listas.github.io/picon/1_0_1_772A_416_1_C00000_0_0_0.png" tvg-id="m2sd" group-title="ES",DAZN 2
+#EXTINF:-1 tvg-id="m2sd" tvg-logo="https://www.sciurus.tel/logos/DAZN%202.png" group-title="ES",DAZN 2
 http://IP:8001/1:0:1:772A:416:1:C00000:0:0:0:
-#EXTINF:-1 tvg-logo="https://spieth365.github.io/listas.github.io/picon/1_0_1_7827_428_1_C00000_0_0_0.png" tvg-id="dazba" group-title="ES",DAZN Baloncesto
+#EXTINF:-1 tvg-id="dazba" tvg-logo="https://www.sciurus.tel/logos/DAZN%20Baloncesto.png" group-title="ES",DAZN Baloncesto
 http://IP:8001/1:0:1:7827:428:1:C00000:0:0:0:
-#EXTINF:-1 tvg-logo="https://spieth365.github.io/listas.github.io/picon/1_0_1_7568_412_1_C00000_0_0_0.png" tvg-id="dazb2" group-title="ES",DAZN Baloncesto 2
+#EXTINF:-1 tvg-id="dazb2" tvg-logo="https://www.sciurus.tel/logos/DAZN%20Baloncesto%202.png" group-title="ES",DAZN Baloncesto 2
 http://IP:8001/1:0:1:7568:412:1:C00000:0:0:0:
-#EXTINF:-1 tvg-logo="https://spieth365.github.io/listas.github.io/picon/1_0_1_7695_41E_1_C00000_0_0_0.png" tvg-id="dazb3" group-title="ES",DAZN Baloncesto 3
+#EXTINF:-1 tvg-id="dazb3" tvg-logo="https://www.sciurus.tel/logos/DAZN%20Baloncesto%203.png" group-title="ES",DAZN Baloncesto 3
 http://IP:8001/1:0:1:7695:41E:1:C00000:0:0:0:
-#EXTINF:-1 tvg-logo="https://spieth365.github.io/listas.github.io/picon/1_0_19_7535_426_1_C00000_0_0_0.png" tvg-id="esp" group-title="ES",Eurosport 1
+#EXTINF:-1 tvg-id="esp" tvg-logo="https://www.sciurus.tel/logos/Eurosport%201.png" group-title="ES",Eurosport 1
 http://IP:8001/1:0:19:7535:426:1:C00000:0:0:0:
-#EXTINF:-1 tvg-logo="https://spieth365.github.io/listas.github.io/picon/1_0_19_24BE_43C_1_C00000_0_0_0.png" tvg-id="esp2" group-title="ES",Eurosport 2
+#EXTINF:-1 tvg-id="esp2" tvg-logo="https://www.sciurus.tel/logos/Eurosport%202.png" group-title="ES",Eurosport 2
 http://IP:8001/1:0:19:24BE:43C:1:C00000:0:0:0:
-#EXTINF:-1 tvg-logo="https://spieth365.github.io/listas.github.io/picon/1_0_1_7890_414_1_C00000_0_0_0.png" tvg-id="gol" group-title="ES",Gol Play
+#EXTINF:-1 tvg-id="gol" tvg-logo="https://www.sciurus.tel/logos/Gol%20Play.png" group-title="ES",Gol Play
 http://IP:8001/1:0:1:7890:414:1:C00000:0:0:0:
-#EXTINF:-1 tvg-logo="https://spieth365.github.io/listas.github.io/picon/1_0_1_2C8C_41A_1_C00000_0_0_0.png" tvg-id="tdep" group-title="ES",Teledeporte
+#EXTINF:-1 tvg-id="tdep" tvg-logo="https://www.sciurus.tel/logos/NoLogo.png" group-title="ES",Teledeporte
 http://IP:8001/1:0:1:2C8C:41A:1:C00000:0:0:0:
-#EXTINF:-1 tvg-logo="https://spieth365.github.io/listas.github.io/picon/1_0_19_78B8_3EC_1_C00000_0_0_0.png" tvg-id="cazpes" group-title="ES",Caza y Pesca
+#EXTINF:-1 tvg-id="cazpes" tvg-logo="https://www.sciurus.tel/logos/Caza%20y%20Pesca.png" group-title="ES",Caza y Pesca
 http://IP:8001/1:0:19:78B8:3EC:1:C00000:0:0:0:
-#EXTINF:-1 tvg-logo="https://spieth365.github.io/listas.github.io/picon/1_0_1_746A_3F0_1_C00000_0_0_0.png" tvg-id="iberal" group-title="ES",Iberalia TV
+#EXTINF:-1 tvg-id="iberal" tvg-logo="https://www.sciurus.tel/logos/Iberalia%20TV.png" group-title="ES",Iberalia TV
 http://IP:8001/1:0:1:746A:3F0:1:C00000:0:0:0:
-#EXTINF:-1 tvg-logo="https://spieth365.github.io/listas.github.io/picon/1_0_1_778D_424_1_C00000_0_0_0.png" tvg-id="natgeo" group-title="ES",National Geographic
+#EXTINF:-1 tvg-id="natgeo" tvg-logo="https://www.sciurus.tel/logos/National%20Geographic.png" group-title="ES",National Geographic
 http://IP:8001/1:0:1:778D:424:1:C00000:0:0:0:
-#EXTINF:-1 tvg-logo="https://spieth365.github.io/listas.github.io/picon/1_0_1_7472_3F0_1_C00000_0_0_0.png" tvg-id="natgw" group-title="ES",Nat Geo Wild
+#EXTINF:-1 tvg-id="natgw" tvg-logo="https://www.sciurus.tel/logos/Nat%20Geo%20Wild.png" group-title="ES",Nat Geo Wild
 http://IP:8001/1:0:1:7472:3F0:1:C00000:0:0:0:
-#EXTINF:-1 tvg-logo="https://spieth365.github.io/listas.github.io/picon/1_0_1_7731_416_1_C00000_0_0_0.png" tvg-id="bbhis" group-title="ES",BBC History
+#EXTINF:-1 tvg-id="bbhis" tvg-logo="https://www.sciurus.tel/logos/BBC%20History.png" group-title="ES",BBC History
 http://IP:8001/1:0:1:7731:416:1:C00000:0:0:0:
-#EXTINF:-1 tvg-logo="https://spieth365.github.io/listas.github.io/picon/1_0_1_772F_416_1_C00000_0_0_0.png" tvg-id="dcr" group-title="ES",Discovery
+#EXTINF:-1 tvg-id="dcr" tvg-logo="https://www.sciurus.tel/logos/Discovery.png" group-title="ES",Discovery
 http://IP:8001/1:0:1:772F:416:1:C00000:0:0:0:
-#EXTINF:-1 tvg-logo="https://spieth365.github.io/listas.github.io/picon/1_0_1_76C4_40E_1_C00000_0_0_0.png" tvg-id="bbcear" group-title="ES",BBC Earth
+#EXTINF:-1 tvg-id="bbcear" tvg-logo="https://www.sciurus.tel/logos/BBC%20Earth.png" group-title="ES",BBC Earth
 http://IP:8001/1:0:1:76C4:40E:1:C00000:0:0:0:
-#EXTINF:-1 tvg-logo="https://spieth365.github.io/listas.github.io/picon/1_0_1_76CE_40E_1_C00000_0_0_0.png" tvg-id="bbfoo" group-title="ES",BBC Food
+#EXTINF:-1 tvg-id="bbfoo" tvg-logo="https://www.sciurus.tel/logos/BBC%20Food.png" group-title="ES",BBC Food
 http://IP:8001/1:0:1:76CE:40E:1:C00000:0:0:0:
-#EXTINF:-1 tvg-logo="https://spieth365.github.io/listas.github.io/picon/1_0_1_76C3_40E_1_C00000_0_0_0.png" tvg-id="bbclif" group-title="ES",BBC Lifestyle
+#EXTINF:-1 tvg-id="bbclif" tvg-logo="https://www.sciurus.tel/logos/BBC%20Lifestyle.png" group-title="ES",BBC Lifestyle
 http://IP:8001/1:0:1:76C3:40E:1:C00000:0:0:0:
-#EXTINF:-1 tvg-logo="https://spieth365.github.io/listas.github.io/picon/1_0_1_788B_414_1_C00000_0_0_0.png" tvg-id="divini" group-title="ES",Divinity
+#EXTINF:-1 tvg-id="divini" tvg-logo="https://www.sciurus.tel/logos/Divinity.png" group-title="ES",Divinity
 http://IP:8001/1:0:1:788B:414:1:C00000:0:0:0:
-#EXTINF:-1 tvg-logo="https://spieth365.github.io/listas.github.io/picon/1_0_1_7469_3F0_1_C00000_0_0_0.png" tvg-id="nova" group-title="ES",Nova
+#EXTINF:-1 tvg-id="nova" tvg-logo="https://www.sciurus.tel/logos/Nova.png" group-title="ES",Nova
 http://IP:8001/1:0:1:7469:3F0:1:C00000:0:0:0:
-#EXTINF:-1 tvg-logo="https://spieth365.github.io/listas.github.io/picon/1_0_1_778A_424_1_C00000_0_0_0.png" tvg-id="baby" group-title="ES",Baby TV
+#EXTINF:-1 tvg-id="baby" tvg-logo="https://www.sciurus.tel/logos/Baby%20TV.png" group-title="ES",Baby TV
 http://IP:8001/1:0:1:778A:424:1:C00000:0:0:0:
-#EXTINF:-1 tvg-logo="https://spieth365.github.io/listas.github.io/picon/1_0_1_746B_3F0_1_C00000_0_0_0.png" tvg-id="playdc" group-title="ES",Disney Channel
+#EXTINF:-1 tvg-id="playdc" tvg-logo="https://www.sciurus.tel/logos/Disney%20Channel.png" group-title="ES",Disney Channel
 http://IP:8001/1:0:1:746B:3F0:1:C00000:0:0:0:
-#EXTINF:-1 tvg-logo="https://spieth365.github.io/listas.github.io/picon/1_0_1_7697_41E_1_C00000_0_0_0.png" tvg-id="nickjr" group-title="ES",Nick Junior
+#EXTINF:-1 tvg-id="nickjr" tvg-logo="https://www.sciurus.tel/logos/Nick%20Junior.png" group-title="ES",Nick Junior
 http://IP:8001/1:0:1:7697:41E:1:C00000:0:0:0:
-#EXTINF:-1 tvg-logo="https://spieth365.github.io/listas.github.io/picon/1_0_1_772E_416_1_C00000_0_0_0.png" tvg-id="nick" group-title="ES",Nickelodeon
+#EXTINF:-1 tvg-id="nick" tvg-logo="https://www.sciurus.tel/logos/Nickelodeon.png" group-title="ES",Nickelodeon
 http://IP:8001/1:0:1:772E:416:1:C00000:0:0:0:
-#EXTINF:-1 tvg-logo="https://spieth365.github.io/listas.github.io/picon/1_0_1_77C7_40A_1_C00000_0_0_0.png" tvg-id="dwsp" group-title="ES",DreamWorks
+#EXTINF:-1 tvg-id="dwsp" tvg-logo="https://www.sciurus.tel/logos/DreamWorks.png" group-title="ES",DreamWorks
 http://IP:8001/1:0:1:77C7:40A:1:C00000:0:0:0:
-#EXTINF:-1 tvg-logo="https://spieth365.github.io/listas.github.io/picon/1_0_1_7888_414_1_C00000_0_0_0.png" tvg-id="boing" group-title="ES",Boing
+#EXTINF:-1 tvg-id="boing" tvg-logo="https://www.sciurus.tel/logos/Boing.png" group-title="ES",Boing
 http://IP:8001/1:0:1:7888:414:1:C00000:0:0:0:
-#EXTINF:-1 tvg-logo="https://spieth365.github.io/listas.github.io/picon/1_0_1_2C8B_41A_1_C00000_0_0_0.png" tvg-id="clantv" group-title="ES",Clan TVE
+#EXTINF:-1 tvg-id="clantv" tvg-logo="https://www.sciurus.tel/logos/NoLogo.png" group-title="ES",Clan TVE
 http://IP:8001/1:0:1:2C8B:41A:1:C00000:0:0:0:
-#EXTINF:-1 tvg-logo="https://spieth365.github.io/listas.github.io/picon/1_0_1_788F_414_1_C00000_0_0_0.png" tvg-id="mtv" group-title="ES",MTV
+#EXTINF:-1 tvg-id="mtv" tvg-logo="https://www.sciurus.tel/logos/MTV.png" group-title="ES",MTV
 http://IP:8001/1:0:1:788F:414:1:C00000:0:0:0:
-#EXTINF:-1 tvg-logo="https://spieth365.github.io/listas.github.io/picon/1_0_19_22D6_434_1_C00000_0_0_0.png" tvg-id="mezzo" group-title="ES",Mezzo
+#EXTINF:-1 tvg-id="mezzo" tvg-logo="https://www.sciurus.tel/logos/Mezzo.png" group-title="ES",Mezzo
 http://IP:8001/1:0:19:22D6:434:1:C00000:0:0:0:
-#EXTINF:-1 tvg-logo="https://spieth365.github.io/listas.github.io/picon/1_0_19_74A2_41C_1_C00000_0_0_0.png" tvg-id="mezzli" group-title="ES",Mezzo Live
+#EXTINF:-1 tvg-id="mezzli" tvg-logo="https://www.sciurus.tel/logos/Mezzo%20Live.png" group-title="ES",Mezzo Live
 http://IP:8001/1:0:19:74A2:41C:1:C00000:0:0:0:
-#EXTINF:-1 tvg-logo="https://spieth365.github.io/listas.github.io/picon/1_0_1_7577_412_1_C00000_0_0_0.png" tvg-id="classd" group-title="ES",Classica
+#EXTINF:-1 tvg-id="classd" tvg-logo="https://www.sciurus.tel/logos/Classica.png" group-title="ES",Classica
 http://IP:8001/1:0:1:7577:412:1:C00000:0:0:0:
-#EXTINF:-1 tvg-logo="https://spieth365.github.io/listas.github.io/picon/1_0_1_2C8A_41A_1_C00000_0_0_0.png" tvg-id="24h" group-title="ES",24 Horas
+#EXTINF:-1 tvg-id="24h" tvg-logo="https://www.sciurus.tel/logos/NoLogo.png" group-title="ES",24 Horas
 http://IP:8001/1:0:1:2C8A:41A:1:C00000:0:0:0:
-#EXTINF:-1 tvg-logo="https://spieth365.github.io/listas.github.io/picon/1_0_19_1389_3EA_1_C00000_0_0_0.png" tvg-id="bbc" group-title="ES",BBC News
+#EXTINF:-1 tvg-id="bbc" tvg-logo="https://www.sciurus.tel/logos/NoLogo.png" group-title="ES",BBC News
 http://IP:8001/1:0:19:1389:3EA:1:C00000:0:0:0:
-#EXTINF:-1 tvg-logo="https://spieth365.github.io/listas.github.io/picon/1_0_1_17D5_42A_1_C00000_0_0_0.png" tvg-id="cnn" group-title="ES",CNN Int
+#EXTINF:-1 tvg-id="cnn" tvg-logo="https://www.sciurus.tel/logos/NoLogo.png" group-title="ES",CNN Int
 http://IP:8001/1:0:1:17D5:42A:1:C00000:0:0:0:
-#EXTINF:-1 tvg-logo="https://spieth365.github.io/listas.github.io/picon/1_0_19_13A7_3EA_1_C00000_0_0_0.png" tvg-id="aljaze" group-title="ES",Al Jazeera English
+#EXTINF:-1 tvg-id="aljaze" tvg-logo="https://www.sciurus.tel/logos/Al%20Jazeera%20English.png" group-title="ES",Al Jazeera English
 http://IP:8001/1:0:19:13A7:3EA:1:C00000:0:0:0:
-#EXTINF:-1 tvg-logo="https://spieth365.github.io/listas.github.io/picon/1_0_1_1AF9_3FE_1_C00000_0_0_0.png" tvg-id="france" group-title="ES",France 24 (FR)
+#EXTINF:-1 tvg-id="france" tvg-logo="https://www.sciurus.tel/logos/France%2024%20FR.png" group-title="ES",France 24 (FR)
 http://IP:8001/1:0:1:1AF9:3FE:1:C00000:0:0:0:
-#EXTINF:-1 tvg-logo="https://spieth365.github.io/listas.github.io/picon/1_0_19_18F5_3F4_1_C00000_0_0_0.png" tvg-id="nbc" group-title="ES",CNBC
+#EXTINF:-1 tvg-id="nbc" tvg-logo="https://www.sciurus.tel/logos/NoLogo.png" group-title="ES",CNBC
 http://IP:8001/1:0:19:18F5:3F4:1:C00000:0:0:0:
-#EXTINF:-1 tvg-logo="https://spieth365.github.io/listas.github.io/picon/1_0_1_1C20_457_1_C00000_0_0_0.png" tvg-id="bl" group-title="ES",Bloomberg
+#EXTINF:-1 tvg-id="bl" tvg-logo="https://www.sciurus.tel/logos/Bloomberg.png" group-title="ES",Bloomberg
 http://IP:8001/1:0:1:1C20:457:1:C00000:0:0:0:
-#EXTINF:-1 tvg-logo="https://spieth365.github.io/listas.github.io/picon/1_0_1_1C7A_457_1_C00000_0_0_0.png" tvg-id="skynw" group-title="ES",Sky News
+#EXTINF:-1 tvg-id="skynw" tvg-logo="https://www.sciurus.tel/logos/Sky%20News.png" group-title="ES",Sky News
 http://IP:8001/1:0:1:1C7A:457:1:C00000:0:0:0:
-#EXTINF:-1 tvg-logo="https://spieth365.github.io/listas.github.io/picon/1_0_19_18ED_3F4_3_C00000_0_0_0.png" tvg-id="cctv-e" group-title="ES",CGTN
+#EXTINF:-1 tvg-id="cctv-e" tvg-logo="https://www.sciurus.tel/logos/CGTN.png" group-title="ES",CGTN
 http://IP:8001/1:0:19:18ED:3F4:3:C00000:0:0:0:
-#EXTINF:-1 tvg-logo="https://spieth365.github.io/listas.github.io/picon/1_0_19_18EE_3F4_3_C00000_0_0_0.png" tvg-id="cgtnd" group-title="ES",CGTN Documentary
+#EXTINF:-1 tvg-id="cgtnd" tvg-logo="https://www.sciurus.tel/logos/CGTN%20Documentary.png" group-title="ES",CGTN Documentary
 http://IP:8001/1:0:19:18EE:3F4:3:C00000:0:0:0:
-#EXTINF:-1 tvg-logo="https://spieth365.github.io/listas.github.io/picon/1_0_19_18EF_3F4_3_C00000_0_0_0.png" tvg-id="cgtnfr" group-title="ES",CGTN Français
+#EXTINF:-1 tvg-id="cgtnfr" tvg-logo="https://www.sciurus.tel/logos/CGTN%20Francais.png" group-title="ES",CGTN Français
 http://IP:8001/1:0:19:18EF:3F4:3:C00000:0:0:0:
-#EXTINF:-1 tvg-logo="https://spieth365.github.io/listas.github.io/picon/1_0_19_1AF5_3FE_1_C00000_0_0_0.png" tvg-id="arirhd" group-title="ES",Arirang TV
+#EXTINF:-1 tvg-id="arirhd" tvg-logo="https://www.sciurus.tel/logos/Arirang%20TV.png" group-title="ES",Arirang TV
 http://IP:8001/1:0:19:1AF5:3FE:1:C00000:0:0:0:
-#EXTINF:-1 tvg-logo="https://spieth365.github.io/listas.github.io/picon/1_0_19_1647_42C_1_C00000_0_0_0.png" tvg-id="cubav" group-title="ES",Cubavisión
+#EXTINF:-1 tvg-id="cubav" tvg-logo="https://www.sciurus.tel/logos/Cubavision.png" group-title="ES",Cubavisión
 http://IP:8001/1:0:19:1647:42C:1:C00000:0:0:0:
-#EXTINF:-1 tvg-logo="https://spieth365.github.io/listas.github.io/picon/1_0_19_7A49_410_1_C00000_0_0_0.png" tvg-id="tlesur" group-title="ES",Telesur
+#EXTINF:-1 tvg-id="tlesur" tvg-logo="https://www.sciurus.tel/logos/Telesur.png" group-title="ES",Telesur
 http://IP:8001/1:0:19:7A49:410:1:C00000:0:0:0:
-#EXTINF:-1 tvg-logo="https://spieth365.github.io/listas.github.io/picon/1_0_19_18F7_3F4_1_C00000_0_0_0.png" tvg-id="dayst" group-title="ES",Daystar Español
+#EXTINF:-1 tvg-id="dayst" tvg-logo="https://www.sciurus.tel/logos/Daystar%20Espanol.png" group-title="ES",Daystar Español
 http://IP:8001/1:0:19:18F7:3F4:1:C00000:0:0:0:
-#EXTINF:-1 tvg-logo="https://spieth365.github.io/listas.github.io/picon/1_0_19_139D_3EA_1_C00000_0_0_0.png" group-title="ES",NHK World
+#EXTINF:-1 tvg-logo="https://www.sciurus.tel/logos/NHK%20World.png" group-title="ES",NHK World
 http://IP:8001/1:0:19:139D:3EA:1:C00000:0:0:0:
-#EXTINF:-1 tvg-logo="https://spieth365.github.io/listas.github.io/picon/1_0_1_2C92_41A_1_C00000_0_0_0.png" tvg-id="antv" group-title="ES",Canal Sur Andalucía
+#EXTINF:-1 tvg-id="antv" tvg-logo="https://www.sciurus.tel/logos/NoLogo.png" group-title="ES",Canal Sur Andalucía
 http://IP:8001/1:0:1:2C92:41A:1:C00000:0:0:0:
-#EXTINF:-1 tvg-logo="https://spieth365.github.io/listas.github.io/picon/1_0_1_7473_3F0_1_C00000_0_0_0.png" tvg-id="aragon" group-title="ES",Aragón TV Int
+#EXTINF:-1 tvg-id="aragon" tvg-logo="https://www.sciurus.tel/logos/Aragon%20TV%20Int.png" group-title="ES",Aragón TV Int
 http://IP:8001/1:0:1:7473:3F0:1:C00000:0:0:0:
-#EXTINF:-1 tvg-logo="https://spieth365.github.io/listas.github.io/picon/1_0_19_74A3_41C_1_C00000_0_0_0.png" tvg-id="mlig2" group-title="ES",M+ LaLiga 3
+#EXTINF:-1 tvg-id="mlig2" tvg-logo="https://www.sciurus.tel/logos/M%20LaLiga%203.png" group-title="ES",M+ LaLiga 3
 http://IP:8001/1:0:19:74A3:41C:1:C00000:0:0:0:
-#EXTINF:-1 tvg-logo="https://spieth365.github.io/listas.github.io/picon/1_0_1_7892_414_1_C00000_0_0_0.png" tvg-id="mlig3" group-title="ES",DAZN Mundial 6
-http://IP:8001/1:0:1:7892:414:1:C00000:0:0:0:
-#EXTINF:-1 tvg-logo="https://spieth365.github.io/listas.github.io/picon/1_0_1_7894_414_1_C00000_0_0_0.png" tvg-id="daznl3" group-title="ES",DAZN Mundial 3
+#EXTINF:-1 tvg-id="daznl3" tvg-logo="https://www.sciurus.tel/logos/DAZN%20Mundial%203.png" group-title="ES",DAZN Mundial 3
 http://IP:8001/1:0:1:7894:414:1:C00000:0:0:0:
-#EXTINF:-1 tvg-logo="https://spieth365.github.io/listas.github.io/picon/1_0_1_7884_414_1_C00000_0_0_0.png" tvg-id="daznl4" group-title="ES",DAZN Mundial 4
+#EXTINF:-1 tvg-id="daznl4" tvg-logo="https://www.sciurus.tel/logos/DAZN%20Mundial%204.png" group-title="ES",DAZN Mundial 4
 http://IP:8001/1:0:1:7884:414:1:C00000:0:0:0:
-#EXTINF:-1 tvg-logo="https://spieth365.github.io/listas.github.io/picon/1_0_1_788D_414_1_C00000_0_0_0.png" tvg-id="daznl5" group-title="ES",DAZN Mundial 5
-http://IP:8001/1:0:1:788D:414:1:C00000:0:0:0:
-#EXTINF:-1 tvg-logo="https://spieth365.github.io/listas.github.io/picon/1_0_1_782A_428_1_C00000_0_0_0.png" tvg-id="mligs3" group-title="ES",LaLiga TV Hypermotion 3
+#EXTINF:-1 tvg-id="mligs3" tvg-logo="https://www.sciurus.tel/logos/LaLiga%20TV%20Hypermotion%203.png" group-title="ES",LaLiga TV Hypermotion 3
 http://IP:8001/1:0:1:782A:428:1:C00000:0:0:0:
-#EXTINF:-1 tvg-logo="https://spieth365.github.io/listas.github.io/picon/1_0_1_77D8_40A_1_C00000_0_0_0.png" tvg-id="chap3" group-title="ES",M+ Liga de Campeones 4
+#EXTINF:-1 tvg-id="chap3" tvg-logo="https://www.sciurus.tel/logos/M%20Liga%20de%20Campeones%204.png" group-title="ES",M+ Liga de Campeones 4
 http://IP:8001/1:0:1:77D8:40A:1:C00000:0:0:0:
-#EXTINF:-1 tvg-logo="https://spieth365.github.io/listas.github.io/picon/1_0_1_77C4_40A_1_C00000_0_0_0.png" tvg-id="chap4" group-title="ES",M+ Liga de Campeones 5
+#EXTINF:-1 tvg-id="chap4" tvg-logo="https://www.sciurus.tel/logos/M%20Liga%20de%20Campeones%205.png" group-title="ES",M+ Liga de Campeones 5
 http://IP:8001/1:0:1:77C4:40A:1:C00000:0:0:0:
-#EXTINF:-1 tvg-logo="https://spieth365.github.io/listas.github.io/picon/1_0_1_77BF_40A_1_C00000_0_0_0.png" tvg-id="usop3" group-title="ES",M+ Deportes 4
+#EXTINF:-1 tvg-id="usop3" tvg-logo="https://www.sciurus.tel/logos/M%20Deportes%204.png" group-title="ES",M+ Deportes 4
 http://IP:8001/1:0:1:77BF:40A:1:C00000:0:0:0:
-#EXTINF:-1 tvg-logo="https://spieth365.github.io/listas.github.io/picon/1_0_1_77C8_40A_1_C00000_0_0_0.png" tvg-id="usop11" group-title="ES",M+ Deportes 5
+#EXTINF:-1 tvg-id="usop11" tvg-logo="https://www.sciurus.tel/logos/M%20Deportes%205.png" group-title="ES",M+ Deportes 5
 http://IP:8001/1:0:1:77C8:40A:1:C00000:0:0:0:
-#EXTINF:-1 tvg-logo="https://spieth365.github.io/listas.github.io/picon/1_0_1_769B_41E_1_C00000_0_0_0.png" tvg-id="multi8" group-title="ES",M+ Deportes 6
+#EXTINF:-1 tvg-id="multi8" tvg-logo="https://www.sciurus.tel/logos/M%20Deportes%206.png" group-title="ES",M+ Deportes 6
 http://IP:8001/1:0:1:769B:41E:1:C00000:0:0:0:
-#EXTINF:-1 tvg-logo="https://spieth365.github.io/listas.github.io/picon/1_0_1_782D_428_1_C00000_0_0_0.png" tvg-id="multi6" group-title="ES",M+ Deportes 7
+#EXTINF:-1 tvg-id="mbalc3" tvg-logo="https://www.sciurus.tel/logos/M%20Baloncesto%203.png" group-title="ES",M+ Baloncesto 3
+http://IP:8001/1:0:1:7893:414:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="multi6" tvg-logo="https://www.sciurus.tel/logos/M%20Deportes%207.png" group-title="ES",M+ Deportes 7
 http://IP:8001/1:0:1:782D:428:1:C00000:0:0:0:
-#EXTINF:-1 tvg-logo="https://spieth365.github.io/listas.github.io/picon/1_0_1_77C9_40A_1_C00000_0_0_0.png" tvg-id="MULTI9" group-title="ES",M+ Deportes 8
+#EXTINF:-1 tvg-id="MULTI9" tvg-logo="https://www.sciurus.tel/logos/M%20Deportes%208.png" group-title="ES",M+ Deportes 8
 http://IP:8001/1:0:1:77C9:40A:1:C00000:0:0:0:
-#EXTINF:-1 tvg-logo="https://spieth365.github.io/listas.github.io/picon/1_0_1_77BE_40A_1_C00000_0_0_0.png" tvg-id="dazn3" group-title="ES",DAZN 3
+#EXTINF:-1 tvg-id="dazn3" tvg-logo="https://www.sciurus.tel/logos/DAZN%203.png" group-title="ES",DAZN 3
 http://IP:8001/1:0:1:77BE:40A:1:C00000:0:0:0:
-#EXTINF:-1 tvg-logo="https://spieth365.github.io/listas.github.io/picon/1_0_1_77C0_40A_1_C00000_0_0_0.png" tvg-id="dazn4" group-title="ES",DAZN 4
+#EXTINF:-1 tvg-id="dazn4" tvg-logo="https://www.sciurus.tel/logos/DAZN%204.png" group-title="ES",DAZN 4
 http://IP:8001/1:0:1:77C0:40A:1:C00000:0:0:0:
-#EXTINF:-1 tvg-logo="https://spieth365.github.io/listas.github.io/picon/1_0_1_778B_424_1_C00000_0_0_0.png" group-title="ES",Playboy TV
+#EXTINF:-1 tvg-logo="https://www.sciurus.tel/logos/Playboy%20TV.png" group-title="ES",Playboy TV
 http://IP:8001/1:0:1:778B:424:1:C00000:0:0:0:
-# Generated 2026-07-26 | base_julio_corregido | Channels: 120 | Skipped: 0
+
+# Canales generados automáticamente: 119 | Omitidos: 0
