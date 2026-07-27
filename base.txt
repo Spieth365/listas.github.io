@@ -75,10 +75,14 @@ http://IP:8001/1:0:19:78B5:3EC:1:C00000:0:0:0:
 http://IP:8001/1:0:19:7504:420:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="mliga" tvg-logo="https://www.sciurus.tel/logos/M%20LaLiga.png" group-title="ES",M+ LaLiga
 http://IP:8001/1:0:19:750F:420:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="daznli" tvg-logo="https://www.sciurus.tel/logos/DAZN%20LaLiga.png" group-title="ES",DAZN LaLiga
+http://IP:8001/1:0:19:7534:426:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="mligs" tvg-logo="https://www.sciurus.tel/logos/LaLiga%20TV%20Hypermotion.png" group-title="ES",LaLiga TV Hypermotion
 http://IP:8001/1:0:19:749B:41C:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="mlig1" tvg-logo="https://www.sciurus.tel/logos/M%20LaLiga%202.png" group-title="ES",M+ LaLiga 2
 http://IP:8001/1:0:19:750D:420:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="daznl2" tvg-logo="https://www.sciurus.tel/logos/DAZN%20LaLiga%202.png" group-title="ES",DAZN LaLiga 2
+http://IP:8001/1:0:19:749D:41C:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="mligs2" tvg-logo="https://www.sciurus.tel/logos/LaLiga%20TV%20Hypermotion%202.png" group-title="ES",LaLiga TV Hypermotion 2
 http://IP:8001/1:0:1:7831:428:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="chapio" tvg-logo="https://www.sciurus.tel/logos/M%20Liga%20de%20Campeones.png" group-title="ES",M+ Liga de Campeones
@@ -230,4 +234,4 @@ http://IP:8001/1:0:1:77C0:40A:1:C00000:0:0:0:
 #EXTINF:-1 tvg-logo="https://www.sciurus.tel/logos/Playboy%20TV.png" group-title="ES",Playboy TV
 http://IP:8001/1:0:1:778B:424:1:C00000:0:0:0:
 
-# Canales generados automáticamente: 115 | Omitidos: 0
+# Canales generados automáticamente: 117 | Omitidos: 0
