@@ -209,6 +209,8 @@ http://IP:8001/1:0:1:2C92:41A:1:C00000:0:0:0:
 http://IP:8001/1:0:1:7473:3F0:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="mlig2" tvg-logo="https://www.sciurus.tel/logos/M%20LaLiga%203.png" group-title="ES",M+ LaLiga 3
 http://IP:8001/1:0:19:74A3:41C:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="mlig3" tvg-logo="https://www.sciurus.tel/logos/M%20LaLiga%204.png" group-title="ES",M+ LaLiga 4
+http://IP:8001/1:0:1:7892:414:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="mligs3" tvg-logo="https://www.sciurus.tel/logos/LaLiga%20TV%20Hypermotion%203.png" group-title="ES",LaLiga TV Hypermotion 3
 http://IP:8001/1:0:1:782A:428:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="chap3" tvg-logo="https://www.sciurus.tel/logos/M%20Liga%20de%20Campeones%204.png" group-title="ES",M+ Liga de Campeones 4
@@ -234,4 +236,4 @@ http://IP:8001/1:0:1:77C0:40A:1:C00000:0:0:0:
 #EXTINF:-1 tvg-logo="https://www.sciurus.tel/logos/Playboy%20TV.png" group-title="ES",Playboy TV
 http://IP:8001/1:0:1:778B:424:1:C00000:0:0:0:
 
-# Canales generados automáticamente: 117 | Omitidos: 0
+# Canales generados automáticamente: 118 | Omitidos: 0
