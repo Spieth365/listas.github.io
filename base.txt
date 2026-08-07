@@ -193,8 +193,8 @@ http://IP:8001/1:0:19:18ED:3F4:3:C00000:0:0:0:
 http://IP:8001/1:0:19:18EE:3F4:3:C00000:0:0:0:
 #EXTINF:-1 tvg-id="cgtnfr" tvg-logo="https://www.sciurus.tel/logos/CGTN%20Francais.png" group-title="ES",CGTN Français
 http://IP:8001/1:0:19:18EF:3F4:3:C00000:0:0:0:
-#EXTINF:-1 tvg-id="arirhd" tvg-logo="https://www.sciurus.tel/logos/Arirang%20TV.png" group-title="ES",Arirang TV
-http://IP:8001/1:0:19:1AF5:3FE:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="arirhd" tvg-logo="https://www.sciurus.tel/logos/NoLogo.png" group-title="ES",Arirang TV
+http://IP:8001/1:0:1:1AF5:3FE:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="cubav" tvg-logo="https://www.sciurus.tel/logos/Cubavision.png" group-title="ES",Cubavisión
 http://IP:8001/1:0:19:1647:42C:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="tlesur" tvg-logo="https://www.sciurus.tel/logos/Telesur.png" group-title="ES",Telesur
