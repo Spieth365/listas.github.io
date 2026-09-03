@@ -217,6 +217,22 @@ http://IP:8001/1:0:1:782A:428:1:C00000:0:0:0:
 http://IP:8001/1:0:1:77D8:40A:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="chap4" tvg-logo="https://www.sciurus.tel/logos/M%20Liga%20de%20Campeones%205.png" group-title="ES",M+ Liga de Campeones 5
 http://IP:8001/1:0:1:77C4:40A:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="chap5" tvg-logo="https://www.sciurus.tel/logos/M%20Liga%20de%20Campeones%206.png" group-title="ES",M+ Liga de Campeones 6
+http://IP:8001/1:0:1:7829:428:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="chap6" tvg-logo="https://www.sciurus.tel/logos/M%20Liga%20de%20Campeones%207.png" group-title="ES",M+ Liga de Campeones 7
+http://IP:8001/1:0:1:7822:428:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="chap7" tvg-logo="https://www.sciurus.tel/logos/M%20Liga%20de%20Campeones%208.png" group-title="ES",M+ Liga de Campeones 8
+http://IP:8001/1:0:1:7824:428:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="chap8" tvg-logo="https://www.sciurus.tel/logos/M%20Liga%20de%20Campeones%209.png" group-title="ES",M+ Liga de Campeones 9
+http://IP:8001/1:0:1:782C:428:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="chap9" tvg-logo="https://www.sciurus.tel/logos/M%20Liga%20de%20Campeones%2010.png" group-title="ES",M+ Liga de Campeones 10
+http://IP:8001/1:0:1:782F:428:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="chap10" tvg-logo="https://www.sciurus.tel/logos/M%20Liga%20de%20Campeones%2011.png" group-title="ES",M+ Liga de Campeones 11
+http://IP:8001/1:0:1:7820:428:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="chap11" tvg-logo="https://www.sciurus.tel/logos/M%20Liga%20de%20Campeones%2012.png" group-title="ES",M+ Liga de Campeones 12
+http://IP:8001/1:0:1:7821:428:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="chap12" tvg-logo="https://www.sciurus.tel/logos/M%20Liga%20de%20Campeones%2013.png" group-title="ES",M+ Liga de Campeones 13
+http://IP:8001/1:0:1:782B:428:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="usop3" tvg-logo="https://www.sciurus.tel/logos/M%20Deportes%204.png" group-title="ES",M+ Deportes 4
 http://IP:8001/1:0:1:77BF:40A:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="usop11" tvg-logo="https://www.sciurus.tel/logos/M%20Deportes%205.png" group-title="ES",M+ Deportes 5
@@ -236,4 +252,4 @@ http://IP:8001/1:0:1:77C0:40A:1:C00000:0:0:0:
 #EXTINF:-1 tvg-logo="https://www.sciurus.tel/logos/Playboy%20TV.png" group-title="ES",Playboy TV
 http://IP:8001/1:0:1:778B:424:1:C00000:0:0:0:
 
-# Canales generados automáticamente: 118 | Omitidos: 0
+# Canales generados automáticamente: 126 | Omitidos: 0
