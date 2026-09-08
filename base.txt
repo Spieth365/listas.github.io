@@ -200,7 +200,7 @@ http://IP:8001/1:0:19:1647:42C:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="tlesur" tvg-logo="https://www.sciurus.tel/logos/Telesur.png" group-title="ES",Telesur
 http://IP:8001/1:0:19:7A49:410:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="dayst" tvg-logo="https://www.sciurus.tel/logos/Daystar%20Espanol.png" group-title="ES",Daystar Español
-http://IP:8001/1:0:1:18F7:3F4:1:C00000:0:0:0:
+http://IP:8001/1:0:19:18F7:3F4:1:C00000:0:0:0:
 #EXTINF:-1 tvg-logo="https://www.sciurus.tel/logos/NHK%20World.png" group-title="ES",NHK World
 http://IP:8001/1:0:19:139D:3EA:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="antv" tvg-logo="https://www.sciurus.tel/logos/NoLogo.png" group-title="ES",Canal Sur Andalucía
