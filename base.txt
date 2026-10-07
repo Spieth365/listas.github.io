@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="local_xmltv.xml"
 #EXTINF:-1 tvg-id="tve" tvg-logo="https://www.sciurus.tel/logos/LA%201.png" group-title="ES",LA 1
 http://IP:8001/1:0:1:76C2:40E:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="la2" tvg-logo="https://www.sciurus.tel/logos/NoLogo.png" group-title="ES",LA 2
+#EXTINF:-1 tvg-id="la2" tvg-logo="https://www.sciurus.tel/logos/LA%202.png" group-title="ES",LA 2
 http://IP:8001/1:0:1:2C89:41A:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="a3" tvg-logo="https://www.sciurus.tel/logos/Antena%203.png" group-title="ES",Antena 3
 http://IP:8001/1:0:1:772C:416:1:C00000:0:0:0:
@@ -127,7 +127,7 @@ http://IP:8001/1:0:19:7535:426:1:C00000:0:0:0:
 http://IP:8001/1:0:19:24BE:43C:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="gol" tvg-logo="https://www.sciurus.tel/logos/Replay.png" group-title="ES",Replay
 http://IP:8001/1:0:1:7890:414:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="tdep" tvg-logo="https://www.sciurus.tel/logos/NoLogo.png" group-title="ES",Teledeporte
+#EXTINF:-1 tvg-id="tdep" tvg-logo="https://www.sciurus.tel/logos/Teledeporte.png" group-title="ES",Teledeporte
 http://IP:8001/1:0:1:2C8C:41A:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="cazpes" tvg-logo="https://www.sciurus.tel/logos/Caza%20y%20Pesca.png" group-title="ES",Caza y Pesca
 http://IP:8001/1:0:19:78B8:3EC:1:C00000:0:0:0:
@@ -163,7 +163,7 @@ http://IP:8001/1:0:1:772E:416:1:C00000:0:0:0:
 http://IP:8001/1:0:1:77C7:40A:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="boing" tvg-logo="https://www.sciurus.tel/logos/Boing.png" group-title="ES",Boing
 http://IP:8001/1:0:1:7888:414:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="clantv" tvg-logo="https://www.sciurus.tel/logos/NoLogo.png" group-title="ES",Clan TVE
+#EXTINF:-1 tvg-id="clantv" tvg-logo="https://www.sciurus.tel/logos/Clan%20TVE.png" group-title="ES",Clan TVE
 http://IP:8001/1:0:1:2C8B:41A:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="mtv" tvg-logo="https://www.sciurus.tel/logos/MTV.png" group-title="ES",MTV
 http://IP:8001/1:0:1:788F:414:1:C00000:0:0:0:
@@ -173,19 +173,19 @@ http://IP:8001/1:0:19:22D6:434:1:C00000:0:0:0:
 http://IP:8001/1:0:19:74A2:41C:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="classd" tvg-logo="https://www.sciurus.tel/logos/Classica.png" group-title="ES",Classica
 http://IP:8001/1:0:1:7577:412:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="24h" tvg-logo="https://www.sciurus.tel/logos/NoLogo.png" group-title="ES",24 Horas
+#EXTINF:-1 tvg-id="24h" tvg-logo="https://www.sciurus.tel/logos/24%20Horas.png" group-title="ES",24 Horas
 http://IP:8001/1:0:1:2C8A:41A:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="bbc" tvg-logo="https://www.sciurus.tel/logos/NoLogo.png" group-title="ES",BBC News
+#EXTINF:-1 tvg-id="bbc" tvg-logo="https://www.sciurus.tel/logos/BBC%20News.png" group-title="ES",BBC News
 http://IP:8001/1:0:19:1389:3EA:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="cnn" tvg-logo="https://www.sciurus.tel/logos/NoLogo.png" group-title="ES",CNN Int
+#EXTINF:-1 tvg-id="cnn" tvg-logo="https://www.sciurus.tel/logos/CNN%20Int.png" group-title="ES",CNN Int
 http://IP:8001/1:0:1:17D5:42A:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="aljaze" tvg-logo="https://www.sciurus.tel/logos/Al%20Jazeera%20English.png" group-title="ES",Al Jazeera English
 http://IP:8001/1:0:19:13A7:3EA:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="france" tvg-logo="https://www.sciurus.tel/logos/FRANCE24%20FR.png" group-title="ES",FRANCE24 (FR)
 http://IP:8001/1:0:1:1AF9:3FE:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="nbc" tvg-logo="https://www.sciurus.tel/logos/NoLogo.png" group-title="ES",CNBC
+#EXTINF:-1 tvg-id="nbc" tvg-logo="https://www.sciurus.tel/logos/CNBC.png" group-title="ES",CNBC
 http://IP:8001/1:0:19:18F5:3F4:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="tv5" tvg-logo="https://www.sciurus.tel/logos/NoLogo.png" group-title="ES",TV5MONDE
+#EXTINF:-1 tvg-id="tv5" tvg-logo="https://www.sciurus.tel/logos/TV5MONDE.png" group-title="ES",TV5MONDE
 http://IP:8001/1:0:19:1B03:3FE:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="bl" tvg-logo="https://www.sciurus.tel/logos/Bloomberg.png" group-title="ES",Bloomberg
 http://IP:8001/1:0:1:1C20:457:1:C00000:0:0:0:
@@ -193,9 +193,11 @@ http://IP:8001/1:0:1:1C20:457:1:C00000:0:0:0:
 http://IP:8001/1:0:1:1C7A:457:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="cgtnd" tvg-logo="https://www.sciurus.tel/logos/CGTN%20Documentary.png" group-title="ES",CGTN Documentary
 http://IP:8001/1:0:19:18EE:3F4:1:C00000:0:0:0:
+#EXTINF:-1 tvg-id="cgtnen" tvg-logo="https://www.sciurus.tel/logos/CGTN%20English.png" group-title="ES",CGTN English
+http://IP:8001/1:0:19:18ED:3F4:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="cgtnfr" tvg-logo="https://www.sciurus.tel/logos/CGTN%20Francais.png" group-title="ES",CGTN Français
 http://IP:8001/1:0:19:18EF:3F4:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="arirhd" tvg-logo="https://www.sciurus.tel/logos/NoLogo.png" group-title="ES",Arirang TV
+#EXTINF:-1 tvg-id="arirhd" tvg-logo="https://www.sciurus.tel/logos/Arirang%20TV.png" group-title="ES",Arirang TV
 http://IP:8001/1:0:19:1AF5:3FE:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="cubav" tvg-logo="https://www.sciurus.tel/logos/Cubavision.png" group-title="ES",Cubavisión
 http://IP:8001/1:0:19:1647:42C:1:C00000:0:0:0:
@@ -203,7 +205,7 @@ http://IP:8001/1:0:19:1647:42C:1:C00000:0:0:0:
 http://IP:8001/1:0:19:7A49:410:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="dayst" tvg-logo="https://www.sciurus.tel/logos/Daystar%20Espanol.png" group-title="ES",Daystar Español
 http://IP:8001/1:0:19:18F7:3F4:1:C00000:0:0:0:
-#EXTINF:-1 tvg-id="antv" tvg-logo="https://www.sciurus.tel/logos/NoLogo.png" group-title="ES",Canal Sur Andalucía
+#EXTINF:-1 tvg-id="antv" tvg-logo="https://www.sciurus.tel/logos/Canal%20Sur%20Andalucia.png" group-title="ES",Canal Sur Andalucía
 http://IP:8001/1:0:1:2C92:41A:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="aragon" tvg-logo="https://www.sciurus.tel/logos/Aragon%20TV%20Int.png" group-title="ES",Aragón TV Int
 http://IP:8001/1:0:1:7473:3F0:1:C00000:0:0:0:
@@ -252,4 +254,4 @@ http://IP:8001/1:0:1:77C0:40A:1:C00000:0:0:0:
 #EXTINF:-1 tvg-logo="https://www.sciurus.tel/logos/Playboy%20TV.png" group-title="ES",Playboy TV
 http://IP:8001/1:0:1:778B:424:1:C00000:0:0:0:
 
-# Canales generados automáticamente: 126 | Omitidos: 0
+# Canales generados automáticamente: 127 | Omitidos: 0
