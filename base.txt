@@ -4,7 +4,7 @@ http://IP:8001/1:0:1:76C2:40E:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="la2" tvg-logo="https://www.sciurus.tel/logos/LA%202.png" group-title="ES",LA 2
 http://IP:8001/1:0:1:2C89:41A:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="a3" tvg-logo="https://www.sciurus.tel/logos/Antena%203.png" group-title="ES",Antena 3
-http://IP:8001/1:0:1:772C:416:1:C00000:0:0:0:
+http://IP:8001/1:0:1:772C:416:0:C00000:0:0:0:
 #EXTINF:-1 tvg-id="c4" tvg-logo="https://www.sciurus.tel/logos/Cuatro.png" group-title="ES",Cuatro
 http://IP:8001/1:0:1:7792:424:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="t5" tvg-logo="https://www.sciurus.tel/logos/Telecinco.png" group-title="ES",Telecinco
@@ -36,11 +36,11 @@ http://IP:8001/1:0:19:750B:420:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="mindi" tvg-logo="https://www.sciurus.tel/logos/M%20Indie.png" group-title="ES",M+ Indie
 http://IP:8001/1:0:19:7533:426:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="dcesp" tvg-logo="https://www.sciurus.tel/logos/M%20Cine%20Espanol.png" group-title="ES",M+ Cine Español
-http://IP:8001/1:0:1:7736:416:1:C00000:0:0:0:
+http://IP:8001/1:0:1:7736:416:0:C00000:0:0:0:
 #EXTINF:-1 tvg-id="tcm" tvg-logo="https://www.sciurus.tel/logos/TCM.png" group-title="ES",TCM
 http://IP:8001/1:0:1:76C7:40E:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="set" tvg-logo="https://www.sciurus.tel/logos/AXN%20Movies.png" group-title="ES",AXN Movies
-http://IP:8001/1:0:1:757F:412:1:C00000:0:0:0:
+http://IP:8001/1:0:1:757F:412:0:C00000:0:0:0:
 #EXTINF:-1 tvg-id="bbdra" tvg-logo="https://www.sciurus.tel/logos/BBC%20Series.png" group-title="ES",BBC Series
 http://IP:8001/1:0:1:77C1:40A:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="bbgea" tvg-logo="https://www.sciurus.tel/logos/BBC%20Top%20Gear.png" group-title="ES",BBC Top Gear
@@ -58,7 +58,7 @@ http://IP:8001/1:0:1:76C8:40E:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="cl13" tvg-logo="https://www.sciurus.tel/logos/Calle%2013.png" group-title="ES",Calle 13
 http://IP:8001/1:0:1:7790:424:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="cosmo" tvg-logo="https://www.sciurus.tel/logos/COSMO.png" group-title="ES",COSMO
-http://IP:8001/1:0:1:7730:416:1:C00000:0:0:0:
+http://IP:8001/1:0:1:7730:416:0:C00000:0:0:0:
 #EXTINF:-1 tvg-id="sci-fi" tvg-logo="https://www.sciurus.tel/logos/SciFi.png" group-title="ES",SciFi
 http://IP:8001/1:0:1:7796:424:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="energy" tvg-logo="https://www.sciurus.tel/logos/Energy.png" group-title="ES",Energy
@@ -66,7 +66,7 @@ http://IP:8001/1:0:1:7889:414:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="fdfic" tvg-logo="https://www.sciurus.tel/logos/Factoria%20de%20Ficcion.png" group-title="ES",Factoría de Ficción
 http://IP:8001/1:0:1:77BC:40A:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="neox" tvg-logo="https://www.sciurus.tel/logos/Neox.png" group-title="ES",Neox
-http://IP:8001/1:0:1:7587:412:1:C00000:0:0:0:
+http://IP:8001/1:0:1:7587:412:0:C00000:0:0:0:
 #EXTINF:-1 tvg-id="vamosd" tvg-logo="https://www.sciurus.tel/logos/M%20Vamos.png" group-title="ES",M+ Vamos
 http://IP:8001/1:0:19:7508:420:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="vam2sd" tvg-logo="https://www.sciurus.tel/logos/M%20Vamos%202.png" group-title="ES",M+ Vamos 2
@@ -102,23 +102,23 @@ http://IP:8001/1:0:1:77C2:40A:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="mbalct" tvg-logo="https://www.sciurus.tel/logos/M%20Baloncesto.png" group-title="ES",M+ Baloncesto
 http://IP:8001/1:0:19:7536:426:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="mbalc2" tvg-logo="https://www.sciurus.tel/logos/M%20Baloncesto%202.png" group-title="ES",M+ Baloncesto 2
-http://IP:8001/1:0:1:756B:412:1:C00000:0:0:0:
+http://IP:8001/1:0:1:756B:412:0:C00000:0:0:0:
 #EXTINF:-1 tvg-id="golf+" tvg-logo="https://www.sciurus.tel/logos/M%20Golf.png" group-title="ES",M+ Golf
 http://IP:8001/1:0:19:78B7:3EC:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="golf2" tvg-logo="https://www.sciurus.tel/logos/M%20Golf%202.png" group-title="ES",M+ Golf 2
-http://IP:8001/1:0:1:756D:412:1:C00000:0:0:0:
+http://IP:8001/1:0:1:756D:412:0:C00000:0:0:0:
 #EXTINF:-1 tvg-id="mvf1" tvg-logo="https://www.sciurus.tel/logos/DAZN%20F1.png" group-title="ES",DAZN F1
 http://IP:8001/1:0:19:7531:426:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="dazmot" tvg-logo="https://www.sciurus.tel/logos/DAZN%20MotoGP.png" group-title="ES",DAZN MotoGP
-http://IP:8001/1:0:1:7569:412:1:C00000:0:0:0:
+http://IP:8001/1:0:1:7569:412:0:C00000:0:0:0:
 #EXTINF:-1 tvg-id="m1sd" tvg-logo="https://www.sciurus.tel/logos/DAZN%201.png" group-title="ES",DAZN 1
 http://IP:8001/1:0:1:76A4:41E:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="m2sd" tvg-logo="https://www.sciurus.tel/logos/DAZN%202.png" group-title="ES",DAZN 2
-http://IP:8001/1:0:1:772A:416:1:C00000:0:0:0:
+http://IP:8001/1:0:1:772A:416:0:C00000:0:0:0:
 #EXTINF:-1 tvg-id="dazba" tvg-logo="https://www.sciurus.tel/logos/DAZN%20Baloncesto.png" group-title="ES",DAZN Baloncesto
 http://IP:8001/1:0:1:7827:428:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="dazb2" tvg-logo="https://www.sciurus.tel/logos/DAZN%20Baloncesto%202.png" group-title="ES",DAZN Baloncesto 2
-http://IP:8001/1:0:1:7568:412:1:C00000:0:0:0:
+http://IP:8001/1:0:1:7568:412:0:C00000:0:0:0:
 #EXTINF:-1 tvg-id="dazb3" tvg-logo="https://www.sciurus.tel/logos/DAZN%20Baloncesto%203.png" group-title="ES",DAZN Baloncesto 3
 http://IP:8001/1:0:1:7695:41E:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="esp" tvg-logo="https://www.sciurus.tel/logos/Eurosport%201.png" group-title="ES",Eurosport 1
@@ -138,9 +138,9 @@ http://IP:8001/1:0:1:778D:424:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="natgw" tvg-logo="https://www.sciurus.tel/logos/Nat%20Geo%20Wild.png" group-title="ES",Nat Geo Wild
 http://IP:8001/1:0:1:7472:3F0:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="bbhis" tvg-logo="https://www.sciurus.tel/logos/BBC%20History.png" group-title="ES",BBC History
-http://IP:8001/1:0:1:7731:416:1:C00000:0:0:0:
+http://IP:8001/1:0:1:7731:416:0:C00000:0:0:0:
 #EXTINF:-1 tvg-id="dcr" tvg-logo="https://www.sciurus.tel/logos/Discovery.png" group-title="ES",Discovery
-http://IP:8001/1:0:1:772F:416:1:C00000:0:0:0:
+http://IP:8001/1:0:1:772F:416:0:C00000:0:0:0:
 #EXTINF:-1 tvg-id="bbcear" tvg-logo="https://www.sciurus.tel/logos/BBC%20Earth.png" group-title="ES",BBC Earth
 http://IP:8001/1:0:1:76C4:40E:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="bbfoo" tvg-logo="https://www.sciurus.tel/logos/BBC%20Food.png" group-title="ES",BBC Food
@@ -158,7 +158,7 @@ http://IP:8001/1:0:1:746B:3F0:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="nickjr" tvg-logo="https://www.sciurus.tel/logos/NICK%20JR.png" group-title="ES",NICK JR
 http://IP:8001/1:0:1:7697:41E:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="nick" tvg-logo="https://www.sciurus.tel/logos/Nickelodeon.png" group-title="ES",Nickelodeon
-http://IP:8001/1:0:1:772E:416:1:C00000:0:0:0:
+http://IP:8001/1:0:1:772E:416:0:C00000:0:0:0:
 #EXTINF:-1 tvg-id="dwsp" tvg-logo="https://www.sciurus.tel/logos/Dreamworks.png" group-title="ES",Dreamworks
 http://IP:8001/1:0:1:77C7:40A:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="boing" tvg-logo="https://www.sciurus.tel/logos/Boing.png" group-title="ES",Boing
@@ -172,7 +172,7 @@ http://IP:8001/1:0:19:22D6:434:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="mezzli" tvg-logo="https://www.sciurus.tel/logos/Mezzo%20Live.png" group-title="ES",Mezzo Live
 http://IP:8001/1:0:19:74A2:41C:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="classd" tvg-logo="https://www.sciurus.tel/logos/Classica.png" group-title="ES",Classica
-http://IP:8001/1:0:1:7577:412:1:C00000:0:0:0:
+http://IP:8001/1:0:1:7577:412:0:C00000:0:0:0:
 #EXTINF:-1 tvg-id="24h" tvg-logo="https://www.sciurus.tel/logos/24%20Horas.png" group-title="ES",24 Horas
 http://IP:8001/1:0:1:2C8A:41A:1:C00000:0:0:0:
 #EXTINF:-1 tvg-id="bbc" tvg-logo="https://www.sciurus.tel/logos/BBC%20News.png" group-title="ES",BBC News
